@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "c73b8f08d96f8713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "contextlib.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaec8cc016a3c3bf",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "48c56cd27c9b7ace",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python 库.md"
+                "file": "contextlib.md"
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "python 库.md",
+                "file": "contextlib.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python 库.md",
+                "file": "contextlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python 库.md",
+                "file": "contextlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,8 +254,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "84edc7f08def205b",
+  "active": "c73b8f08d96f8713",
   "lastOpenFiles": [
+    "python 库.md",
+    "contextlib.md",
     "obsidian/进阶命令.md",
     "obsidian/贪婪匹配.md",
     "obsidian/调度系统.md",
@@ -271,8 +285,6 @@
     "obsidian/jobinfo.json.md",
     "obsidian/jmmaster log.md",
     "obsidian/deque.md",
-    "obsidian/defaultdict.md",
-    "obsidian/datetime.md",
     "obsidian/Pasted image 20240108110828.png",
     "obsidian/Pasted image 20240108103745.png",
     "obsidian/Pasted image 20240103095856.png",
