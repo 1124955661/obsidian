@@ -1,6 +1,10 @@
 {
   "promptDelete": false,
-  "vimMode": true,
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "vimMode": true
 }
