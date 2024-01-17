@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "进阶命令.md",
+                "file": "基础命令.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "进阶命令.md"
+                "file": "基础命令.md"
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "进阶命令.md",
+                "file": "基础命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "进阶命令.md",
+                "file": "基础命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "进阶命令.md"
+                "file": "基础命令.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,14 +171,15 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "e8957cde3a1c4271",
+  "active": "e793d5af9324100b",
   "lastOpenFiles": [
+    "Vim.md",
+    "进阶命令.md",
     "backup.md",
     "re模块.md",
     "正则编译.md",
     "切分字符串.md",
     "python 库.md",
-    "Vim.md",
     "TMS.md",
     "vertex.md",
     "System error.md",
@@ -195,7 +195,6 @@
     "Bias.md",
     "Meeting Record/System question ---- 23.12.11.md",
     "Study/README.md",
-    "进阶命令.md",
     "正则表达式.md",
     "贪婪匹配.md",
     "namedtuple.md",
