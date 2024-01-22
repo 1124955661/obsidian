@@ -163,9 +163,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "332a6842826b8ecd",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "00bcf6295c36e6fa",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -190,7 +206,7 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "0eb7b977660e6711",
+  "active": "00bcf6295c36e6fa",
   "lastOpenFiles": [
     "Vim.md",
     "基础命令.md",
