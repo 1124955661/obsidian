@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "yaml文件报错.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim.md"
+                "file": "yaml文件报错.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim.md",
+                "file": "yaml文件报错.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim.md",
+                "file": "yaml文件报错.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -235,11 +235,23 @@
   },
   "active": "963efaa629c0aab0",
   "lastOpenFiles": [
+    "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
+    "yaml文件报错.md",
+    "Vim.md",
+    "贪婪匹配.md",
+    "进阶命令.md",
+    "切分字符串.md",
+    "language-learner-texts/考研单词5500词/part6.md",
+    "language-learner-texts/考研单词5500词/part5.md",
+    "language-learner-texts/考研单词5500词/part4.md",
+    "language-learner-texts/考研单词5500词/part3.md",
+    "language-learner-texts/考研单词5500词/part2.md",
+    "language-learner-texts/考研单词5500词/part1.md",
+    "language-learner-texts/考研单词5500词",
     "language-learner-texts/README.md",
     "正则表达式.md",
     "backup.md",
     "调度系统.md",
-    "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
     "language-learner-texts/谷歌10000词/1-1000.md",
     "language-learner-texts/小说/Animal Farm.md",
     "language-learner-texts/AcademicWordList/list-1.md",
@@ -250,19 +262,7 @@
     "基础命令.md",
     "language-learner-texts/谷歌10000词/8001-9000.md",
     "language-learner-texts/谷歌10000词/9001-.md",
-    "language-learner-texts/谷歌10000词/7001-8000.md",
-    "language-learner-texts/谷歌10000词/6001-7000.md",
-    "language-learner-texts/谷歌10000词/5001-6000.md",
-    "language-learner-texts/谷歌10000词/4001-5000.md",
-    "language-learner-texts/谷歌10000词/3001-4000.md",
     "language-learner-texts/谷歌10000词",
-    "language-learner-texts/考研英语一阅读文本/2022/Trans.md",
-    "language-learner-texts/考研英语一阅读文本/2022/Text4.md",
-    "language-learner-texts/考研英语一阅读文本/2022/Text5.md",
-    "language-learner-texts/考研英语一阅读文本/2022/Text1.md",
-    "language-learner-texts/考研英语一阅读文本/2022/Text2.md",
-    "language-learner-texts/考研英语一阅读文本/2022/Text3.md",
-    "language-learner-texts/考研英语一阅读文本/2021/Trans.md",
     "language-learner-texts/考研英语一阅读文本/2022",
     "language-learner-texts/考研英语一阅读文本/2021",
     "language-learner-texts/考研英语一阅读文本/2015",
@@ -271,7 +271,6 @@
     "language-learner-texts/考研英语一阅读文本/2019",
     "language-learner-texts/考研英语一阅读文本/2017",
     "language-learner-texts/考研英语一阅读文本/2016",
-    "language-learner-texts/考研英语一阅读文本/2013",
     "Pasted image 20240108110828.png",
     "企业微信截图_17046777081052(1).png",
     "未命名.canvas",
