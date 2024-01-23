@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yaml文件报错.md",
+                "file": "Vim.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcd0b3756671b268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础命令.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yaml文件报错.md"
+                "file": "基础命令.md"
               }
             }
           },
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yaml文件报错.md",
+                "file": "基础命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yaml文件报错.md",
+                "file": "基础命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +247,10 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "963efaa629c0aab0",
+  "active": "bcd0b3756671b268",
   "lastOpenFiles": [
+    "Vim.md",
+    "yaml文件报错.md",
     "language learn/其他可参考的资源.md",
     "language learn/演讲/We choose to go to the moon.md",
     "language learn/演讲/The Space Shuttle Challenger Tragedy Address.md",
@@ -261,8 +277,6 @@
     "language learn/考研英语一阅读文本/2017/Text2.md",
     "language learn/考研英语一阅读文本/2017/Text1.md",
     "language learn/考研英语一阅读文本/2020/Trans.md",
-    "language learn/考研英语一阅读文本/2020/Text5.md",
-    "language learn/考研英语一阅读文本/2020/Text4.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
