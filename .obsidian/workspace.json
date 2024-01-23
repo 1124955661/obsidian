@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础命令.md",
+                "file": "System error.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础命令.md"
+                "file": "System error.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础命令.md",
+                "file": "System error.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础命令.md",
+                "file": "System error.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,6 +249,16 @@
   },
   "active": "bcd0b3756671b268",
   "lastOpenFiles": [
+    "调度系统.md",
+    "切分字符串.md",
+    "贪婪匹配.md",
+    "修改enable_execute_sessions.md",
+    "正则编译.md",
+    "backup.md",
+    "System error.md",
+    "Untitled.loom",
+    "基础命令.md",
+    "未命名.md",
     "Vim.md",
     "yaml文件报错.md",
     "language learn/其他可参考的资源.md",
@@ -268,15 +278,6 @@
     "language learn/考研英语一阅读文本/2021/Trans.md",
     "language learn/考研英语一阅读文本/2021/Text4.md",
     "language learn/考研英语一阅读文本/2021/Text3.md",
-    "language learn/考研英语一阅读文本/2021/Text2.md",
-    "language learn/考研英语一阅读文本/2021/Text1.md",
-    "language learn/考研英语一阅读文本/2017/Trans.md",
-    "language learn/考研英语一阅读文本/2017/Text4.md",
-    "language learn/考研英语一阅读文本/2017/Text5.md",
-    "language learn/考研英语一阅读文本/2017/Text3.md",
-    "language learn/考研英语一阅读文本/2017/Text2.md",
-    "language learn/考研英语一阅读文本/2017/Text1.md",
-    "language learn/考研英语一阅读文本/2020/Trans.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
@@ -284,7 +285,6 @@
     "language learn/考研英语一阅读文本/2019",
     "language learn/考研英语一阅读文本/2018",
     "language learn/考研英语一阅读文本/2016",
-    "language learn/考研英语一阅读文本/2015",
     "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
     "Pasted image 20240108110828.png",
     "企业微信截图_17046777081052(1).png",
