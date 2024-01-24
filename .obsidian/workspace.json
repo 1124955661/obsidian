@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System error.md"
+                "file": "Vim.md"
               }
             }
           },
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System error.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System error.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,15 +246,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "bcd0b3756671b268",
+  "active": "963efaa629c0aab0",
   "lastOpenFiles": [
+    "System error.md",
     "调度系统.md",
     "切分字符串.md",
     "贪婪匹配.md",
     "修改enable_execute_sessions.md",
     "正则编译.md",
     "backup.md",
-    "System error.md",
     "Untitled.loom",
     "基础命令.md",
     "未命名.md",
