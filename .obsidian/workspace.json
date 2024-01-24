@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "基础命令.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim.md"
+                "file": "基础命令.md"
               }
             }
           },
@@ -114,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 213.50418853759766
   },
   "right": {
     "id": "ccd7433a85483bba",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim.md",
+                "file": "基础命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim.md",
+                "file": "基础命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 245.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,6 +248,9 @@
   },
   "active": "963efaa629c0aab0",
   "lastOpenFiles": [
+    "Vim.md",
+    "vim-keyboard.png",
+    "().md",
     "System error.md",
     "调度系统.md",
     "切分字符串.md",
@@ -258,7 +261,6 @@
     "Untitled.loom",
     "基础命令.md",
     "未命名.md",
-    "Vim.md",
     "yaml文件报错.md",
     "language learn/其他可参考的资源.md",
     "language learn/演讲/We choose to go to the moon.md",
@@ -275,8 +277,6 @@
     "language learn/考研英语一阅读文本/2022/Text2.md",
     "language learn/考研英语一阅读文本/2021/Text5.md",
     "language learn/考研英语一阅读文本/2021/Trans.md",
-    "language learn/考研英语一阅读文本/2021/Text4.md",
-    "language learn/考研英语一阅读文本/2021/Text3.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
@@ -293,7 +293,6 @@
     "Pasted image 20240103095856.png",
     "Pasted image 20240103094154.png",
     "Edge Layer/Pasted image 20231228152108.png",
-    "Edge Layer/Pasted image 20231228155132.png",
-    "Edge Layer/Pasted image 20240102111854.png"
+    "Edge Layer/Pasted image 20231228155132.png"
   ]
 }

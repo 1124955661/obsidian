@@ -1,5 +1,11 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "translucency": false
+  "translucency": false,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "coffebean-代码块着色亮色solarized-light主题",
+    "coffebean-双链加图标"
+  ],
+  "nativeMenus": false
 }
