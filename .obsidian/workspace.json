@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "bcd0b3756671b268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System error.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8bbbdfd7a92544c8",
             "type": "leaf",
             "state": {
@@ -110,11 +97,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 213.50418853759766
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "ccd7433a85483bba",
@@ -217,11 +206,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 250.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,10 +237,10 @@
   },
   "active": "963efaa629c0aab0",
   "lastOpenFiles": [
-    "vim-keyboard.png",
+    "System error.md",
     "Vim.md",
     "基础命令.md",
-    "System error.md",
+    "vim-keyboard.png",
     "正则表达式.md",
     "().md",
     "调度系统.md",
