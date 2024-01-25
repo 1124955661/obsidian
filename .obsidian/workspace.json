@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础命令.md",
+                "file": "Vim.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础命令.md"
+                "file": "Vim.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础命令.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础命令.md",
+                "file": "Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +248,12 @@
   },
   "active": "963efaa629c0aab0",
   "lastOpenFiles": [
-    "Vim.md",
     "vim-keyboard.png",
-    "().md",
+    "Vim.md",
+    "基础命令.md",
     "System error.md",
+    "正则表达式.md",
+    "().md",
     "调度系统.md",
     "切分字符串.md",
     "贪婪匹配.md",
@@ -259,7 +261,6 @@
     "正则编译.md",
     "backup.md",
     "Untitled.loom",
-    "基础命令.md",
     "未命名.md",
     "yaml文件报错.md",
     "language learn/其他可参考的资源.md",
@@ -276,7 +277,6 @@
     "language learn/考研英语一阅读文本/2022/Text1.md",
     "language learn/考研英语一阅读文本/2022/Text2.md",
     "language learn/考研英语一阅读文本/2021/Text5.md",
-    "language learn/考研英语一阅读文本/2021/Trans.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
