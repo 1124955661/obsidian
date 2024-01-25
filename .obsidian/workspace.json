@@ -4,36 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe6b7b1c57d349a",
-        "type": "tabs",
+        "id": "a0d22bd3b3f3fcc5",
+        "type": "split",
         "children": [
           {
-            "id": "963efaa629c0aab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "cfe6b7b1c57d349a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "963efaa629c0aab0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Vim.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "cb1dde77e330bb28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Job Manager Work Flow.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8bbbdfd7a92544c8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "正则表达式.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "8bbbdfd7a92544c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正则表达式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "0693b29ceb2310a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b3a63c3e9917f02e",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim.md"
+                "file": "Job Manager Work Flow.md"
               }
             }
           },
@@ -119,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim.md",
+                "file": "Job Manager Work Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim.md",
+                "file": "Job Manager Work Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,13 +270,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "963efaa629c0aab0",
+  "active": "cb1dde77e330bb28",
   "lastOpenFiles": [
-    "System error.md",
     "Vim.md",
+    "Job Manager Work Flow.md",
+    "未命名.canvas",
+    "正则表达式.md",
+    "System error.md",
     "基础命令.md",
     "vim-keyboard.png",
-    "正则表达式.md",
     "().md",
     "调度系统.md",
     "切分字符串.md",
@@ -250,7 +287,6 @@
     "正则编译.md",
     "backup.md",
     "Untitled.loom",
-    "未命名.md",
     "yaml文件报错.md",
     "language learn/其他可参考的资源.md",
     "language learn/演讲/We choose to go to the moon.md",
@@ -276,7 +312,6 @@
     "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
     "Pasted image 20240108110828.png",
     "企业微信截图_17046777081052(1).png",
-    "未命名.canvas",
     "Pasted image 20240108103745.png",
     "Edge Layer/Pasted image 20240102101745.png",
     "Pasted image 20240103095856.png",
