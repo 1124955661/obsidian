@@ -11,7 +11,7 @@ tags:
 ## 准备阶段
 
 ### [[Job Manager 文件相关]]
-- excel 文件，recipe，
+- excel 文件，recipe
 
 ### 导入 Job
 1. 点击 Import 按钮
@@ -20,8 +20,18 @@ tags:
 导入之后，直接进入 job list
 ## Job 阶段
 1. 选中Job 之后 点击 submit, Job 进入 queue 中排队。
-2. 
+	1. 可以在 job detail tab 中选中需要跑的 session 
+	2. 可以调整 job 在队列中的顺序，用于管控job运行的顺序
+2. 通过 status 和 user 列可以对job table 中进行筛选，快速选中相应的job。
+3. 在实时资源显示界面可以查看当前slurm队列中的 job 的资源使用情况。
+## After Job Done 
+- CKSUM：校验输出 GDS 的cksum的功能
+- copy file to：用于 copy 工作路径下文件的功能。（应删除）
+# 说明及需求改进
 ## Monitor 界面
+## 导入界面
+1. 取消 specified job 这一行，取消用户不必要的输入。
+2. 
 ### [[Job Manager —— job页面 | Job 页面]]
 - Job 相关信息： project name，Job Nama，session，user，status
 - 在 User 和 status 列，提供筛选功能

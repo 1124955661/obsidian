@@ -10,7 +10,7 @@
           {
             "id": "cfe6b7b1c57d349a",
             "type": "tabs",
-            "dimension": 73.44961240310077,
+            "dimension": 68.6046511627907,
             "children": [
               {
                 "id": "cb1dde77e330bb28",
@@ -69,7 +69,7 @@
           {
             "id": "d9fd698f004f4092",
             "type": "tabs",
-            "dimension": 26.550387596899228,
+            "dimension": 31.3953488372093,
             "children": [
               {
                 "id": "0de8818ddb5e969f",
@@ -253,9 +253,18 @@
               "type": "langr-learn-panel",
               "state": {}
             }
+          },
+          {
+            "id": "18d65908ee150029",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Job Manager Work Flow.md"
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
