@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "419713342645007b",
+        "id": "84716eaa772f10ef",
         "type": "split",
         "children": [
           {
             "id": "cfe6b7b1c57d349a",
             "type": "tabs",
+            "dimension": 73.44961240310077,
             "children": [
               {
                 "id": "cb1dde77e330bb28",
@@ -30,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Job Manager Work Flow.md",
+                    "file": "Job Manager.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -63,12 +64,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "9367c25088386e0d",
+            "id": "d9fd698f004f4092",
             "type": "tabs",
+            "dimension": 26.550387596899228,
             "children": [
               {
                 "id": "0de8818ddb5e969f",
@@ -258,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,16 +284,17 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "44913e19be627bcf",
+  "active": "cb1dde77e330bb28",
   "lastOpenFiles": [
-    "Job Manager Job detail 页面.md",
     "Job Manager —— job页面.md",
     "Job Manager Work Flow.md",
+    "Job Manager.md",
+    "Job Manager Job detail 页面.md",
+    "System error.md",
     "Job Manager 文件相关.md",
     "Vim.md",
     "未命名.canvas",
     "正则表达式.md",
-    "System error.md",
     "基础命令.md",
     "vim-keyboard.png",
     "().md",
@@ -315,7 +317,6 @@
     "language learn/考研英语一阅读文本/2022/Text5.md",
     "language learn/考研英语一阅读文本/2022/Text4.md",
     "language learn/考研英语一阅读文本/2022/Text3.md",
-    "language learn/考研英语一阅读文本/2022/Text1.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",

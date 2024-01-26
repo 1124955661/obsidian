@@ -18,6 +18,9 @@ tags:
 2. 选择 excel 文件，recipe，work path， output path
 3. 输入 资源情况 worker node，worker count，gpu
 导入之后，直接进入 job list
+## Job 阶段
+1. 选中Job 之后 点击 submit, Job 进入 queue 中排队。
+2. 
 ## Monitor 界面
 ### [[Job Manager —— job页面 | Job 页面]]
 - Job 相关信息： project name，Job Nama，session，user，status
@@ -32,11 +35,13 @@ tags:
 2. status 
 3. start time
 4. end time
-### button
+### 功能button
 1. Submit：选中 job 之后，点击 submit 按钮提交
 2. Delete：删除选中的记录
 3. Kill：kill running的job
-4. Select：quick select 功能
+4. Update：Update recipe 
+5. CKSUM：校验输出的 GDS 的CKSUM值
+6. Select：quick select 功能
 
 ## queue 界面
 - 当 Job submit 之后，会被提交进队列中，并把队列信息显示在GUI上
@@ -44,6 +49,6 @@ tags:
 - 提供搜索功能
 ## 资源查看
 ### resource
-当前为显示 node 节点的资源情况，——思考是否需要更换成只显示 partition 的资源。（GUI中添加可以指定提交partition的功能）
+- 当前为显示 node 节点的资源情况，——思考是否需要更换成只显示 partition 的资源。（GUI中添加可以指定提交partition的功能）
 ### realtime resource 
 实时显示 job 的资源使用情况。
