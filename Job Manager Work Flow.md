@@ -31,7 +31,8 @@ tags:
 ## Monitor 界面
 ## 导入界面
 1. 取消 specified job 这一行，取消用户不必要的输入。
-2. 
+2. Worker node，Worker Count 合并为一行
+3. 
 ### [[Job Manager —— job页面 | Job 页面]]
 - Job 相关信息： project name，Job Nama，session，user，status
 - 在 User 和 status 列，提供筛选功能
