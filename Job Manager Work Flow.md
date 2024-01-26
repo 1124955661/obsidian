@@ -6,7 +6,7 @@ tags:
 ---
 # Job Manager Work Flow
 ## 登入系统
-输入账号密码登入系统
+1. 输入账号密码登入系统
 
 ## 准备阶段
 
@@ -18,13 +18,12 @@ tags:
 3. INPUT_GDS
 4. customization: 用户自定义的参数
 >[!note]
-> 1. 上述三个变量均需要大写   —— 可以讨论
-> 2.  INPUT_GDS_PATH 和  INPUT_GDS 两列需要连在一起
+> >上述三个变量均需要大写   —— 可以讨论
+> >INPUT_GDS_PATH 和  INPUT_GDS 两列需要连在一起
 ### recipe 
 1. 在jmviewer.conf 中设置 recipe path
 2. script 的命名是 xxx_template.py —— 这个需要修改
 	1. 导入时不需要填写 xxx 这个关键字去fetch 脚本
-
 #### update 功能
 1. 需要在 script 中设定 update 的区域
 ```python 
@@ -39,5 +38,17 @@ tags:
 导入之后，直接进入 job list
 ## Monitor 阶段
 ### job页面
-1. 
+#### 基础信息
+1. project name
+2. Job Name：The input gds name
+3. Session：The number of session
+4. User：User of import job
+5. Status：Job‘s Status 
+	1. Prepared
+	2. Submitting（queue）
+	3. Running
+	4. Done
+	5. Abort
+	6. Killed
+6. 
 ## 资源查看
