@@ -18,9 +18,10 @@ tags:
 2. 选择 excel 文件，recipe，work path， output path
 3. 输入 资源情况 worker node，worker count，gpu
 导入之后，直接进入 job list
-## Monitor 阶段
+## Monitor 界面
 ### [[Job Manager —— job页面 | Job 页面]]
 - Job 相关信息： project name，Job Nama，session，user，status
+- 在 User 和 status 列，提供筛选功能
 ### [[Job Manager Job detail 页面|Job detail 页面 ]]
 - 展示 Job 的详细信息，通过双击 Job 页面，可打开标签页
 - Project, job, session count, start/end time, time cost, user, recipe update time, 
@@ -37,5 +38,12 @@ tags:
 3. Kill：kill running的job
 4. Select：quick select 功能
 
-
+## queue 界面
+- 当 Job submit 之后，会被提交进队列中，并把队列信息显示在GUI上
+- 提供4个按钮用于调整 job 的顺序
+- 提供搜索功能
 ## 资源查看
+### resource
+当前为显示 node 节点的资源情况，——思考是否需要更换成只显示 partition 的资源。（GUI中添加可以指定提交partition的功能）
+### realtime resource 
+实时显示 job 的资源使用情况。
