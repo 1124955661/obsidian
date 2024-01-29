@@ -4,99 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "84716eaa772f10ef",
-        "type": "split",
+        "id": "cfe6b7b1c57d349a",
+        "type": "tabs",
         "children": [
           {
-            "id": "cfe6b7b1c57d349a",
-            "type": "tabs",
-            "dimension": 60.75581395348837,
-            "children": [
-              {
-                "id": "cb1dde77e330bb28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Job Manager Work Flow.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "44913e19be627bcf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Job Manager.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a628a125aafd1fba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Directory not empty.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8efe334416ec4a96",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Job Manager Job detail 页面.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fdf5dab88be983f3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Job Manager —— job页面.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
+            "id": "cb1dde77e330bb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Manager Work Flow.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "d9fd698f004f4092",
-            "type": "tabs",
-            "dimension": 39.24418604651162,
-            "children": [
-              {
-                "id": "0de8818ddb5e969f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
+            "id": "44913e19be627bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Manager.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "80ba26ba19d4c00f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permission Not enough to access monitor path.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a628a125aafd1fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Remove Directory not empty.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Directory not empty.md"
+                "file": "Permission Not enough to access monitor path.md"
               }
             }
           },
@@ -182,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Directory not empty.md",
+                "file": "Permission Not enough to access monitor path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Directory not empty.md",
+                "file": "Permission Not enough to access monitor path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,7 +238,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Directory not empty.md"
+                "file": "Permission Not enough to access monitor path.md"
               }
             }
           }
@@ -307,10 +271,11 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "a628a125aafd1fba",
+  "active": "80ba26ba19d4c00f",
   "lastOpenFiles": [
     "Job Manager.md",
-    "Directory not empty.md",
+    "Permission Not enough to access monitor path.md",
+    "Remove Directory not empty.md",
     "Job Manager Work Flow.md",
     "Job Manager —— job页面.md",
     "Job Manager Job detail 页面.md",
@@ -339,7 +304,6 @@
     "language learn/小说",
     "language learn/考研英语一阅读文本/2022/Trans.md",
     "language learn/考研英语一阅读文本/2022/Text5.md",
-    "language learn/考研英语一阅读文本/2022/Text4.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
