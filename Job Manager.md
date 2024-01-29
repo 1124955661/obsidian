@@ -34,3 +34,4 @@ options['sbatch_setting'] = '-p gpu_48 --job-name=S2@CASEB -N 2 --ntasks-per-nod
 2.  [[merge命令卡|merge 命令导致 session卡住]]
 3.  [[出现session_controller_temp]]
 4.  [[yaml文件报错]]
+5. [[Directory not empty]]

@@ -39,6 +39,19 @@
                 }
               },
               {
+                "id": "a628a125aafd1fba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Directory not empty.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "8efe334416ec4a96",
                 "type": "leaf",
                 "state": {
@@ -64,7 +77,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "d9fd698f004f4092",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job Manager Work Flow.md"
+                "file": "Directory not empty.md"
               }
             }
           },
@@ -168,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Manager Work Flow.md",
+                "file": "Directory not empty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job Manager Work Flow.md",
+                "file": "Directory not empty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +274,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Job Manager Work Flow.md"
+                "file": "Directory not empty.md"
               }
             }
           }
@@ -293,11 +307,12 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "cb1dde77e330bb28",
+  "active": "a628a125aafd1fba",
   "lastOpenFiles": [
-    "Job Manager —— job页面.md",
-    "Job Manager Work Flow.md",
     "Job Manager.md",
+    "Directory not empty.md",
+    "Job Manager Work Flow.md",
+    "Job Manager —— job页面.md",
     "Job Manager Job detail 页面.md",
     "System error.md",
     "Job Manager 文件相关.md",
@@ -325,7 +340,6 @@
     "language learn/考研英语一阅读文本/2022/Trans.md",
     "language learn/考研英语一阅读文本/2022/Text5.md",
     "language learn/考研英语一阅读文本/2022/Text4.md",
-    "language learn/考研英语一阅读文本/2022/Text3.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
