@@ -6,5 +6,5 @@
 	1. 改成 777可以正常执行
 	2. 555 的话执行失败
 # 解决步骤
-
+1. [session_controller](session_controller.md)/log/control_prober.log  中是否含有这部分信息  ![](企业微信截图_1706597865123.png)
 
