@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "2090f9b8e95d7139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slurm utilization question.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d11bef74ea077991",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remove Directory not empty.md"
+                "file": "slurm utilization question.md"
               }
             }
           },
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remove Directory not empty.md",
+                "file": "slurm utilization question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remove Directory not empty.md",
+                "file": "slurm utilization question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Remove Directory not empty.md"
+                "file": "slurm utilization question.md"
               }
             }
           }
@@ -258,14 +271,15 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "d11bef74ea077991",
+  "active": "2090f9b8e95d7139",
   "lastOpenFiles": [
+    "Job Manager.md",
+    "slurm utilization question.md",
+    "Remove Directory not empty.md",
     "_debug_remotely_save/log_hist_exported_on_1706598024123.md",
     "_debug_remotely_save",
     "企业微信截图_1706597865123.png",
     "Job Manager PRD.md",
-    "Job Manager.md",
-    "Remove Directory not empty.md",
     "Permission Not enough to access monitor path.md",
     "Job Manager Work Flow.md",
     "Job Manager —— job页面.md",
@@ -291,7 +305,6 @@
     "language learn/演讲/The Space Shuttle Challenger Tragedy Address.md",
     "language learn/演讲/I have a dream.md",
     "language learn/演讲",
-    "language learn/小说/Animal Farm.md",
     "language learn/小说",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
