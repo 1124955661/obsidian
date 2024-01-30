@@ -29,6 +29,7 @@ options['sbatch_setting'] = '-p gpu_48 --job-name=S2@CASEB -N 2 --ntasks-per-nod
 ```
  [[sbatch setting]] 
 --------------------------------------------------
+## [[Job Manager PRD]]
 # 实际问题
 1.  [[修改enable_execute_sessions|修改enable_execute_sessions]]
 2.  [[merge命令卡|merge 命令导致 session卡住]]

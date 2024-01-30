@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "80ba26ba19d4c00f",
+            "id": "d11bef74ea077991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permission Not enough to access monitor path.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a628a125aafd1fba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Remove Directory not empty.md",
+                "file": "Job Manager PRD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permission Not enough to access monitor path.md"
+                "file": "Job Manager PRD.md"
               }
             }
           },
@@ -125,12 +112,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 215.5
   },
   "right": {
     "id": "ccd7433a85483bba",
@@ -146,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permission Not enough to access monitor path.md",
+                "file": "Job Manager PRD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permission Not enough to access monitor path.md",
+                "file": "Job Manager PRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,11 +224,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Permission Not enough to access monitor path.md"
+                "file": "Job Manager PRD.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -271,11 +258,12 @@
       "obsidian-language-learner:单词列表": false
     }
   },
-  "active": "80ba26ba19d4c00f",
+  "active": "d11bef74ea077991",
   "lastOpenFiles": [
     "Job Manager.md",
-    "Permission Not enough to access monitor path.md",
+    "Job Manager PRD.md",
     "Remove Directory not empty.md",
+    "Permission Not enough to access monitor path.md",
     "Job Manager Work Flow.md",
     "Job Manager —— job页面.md",
     "Job Manager Job detail 页面.md",
@@ -303,7 +291,6 @@
     "language learn/小说/Animal Farm.md",
     "language learn/小说",
     "language learn/考研英语一阅读文本/2022/Trans.md",
-    "language learn/考研英语一阅读文本/2022/Text5.md",
     "language learn/考研英语一阅读文本/2022",
     "language learn/考研英语一阅读文本/2021",
     "language learn/考研英语一阅读文本/2017",
