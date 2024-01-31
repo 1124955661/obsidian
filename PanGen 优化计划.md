@@ -7,4 +7,5 @@
 1. load gds 占用内存过大
 
 ## runtime 
-1. 调整 consum 的处理能力
+1. 调整 consum 的处理能力 —— system 
+2.  break edge在method为1下的runtime —— drc 中期
