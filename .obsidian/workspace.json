@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "64ebaec1f8f5de71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "taskset 测试.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "11914d5a4608ee04",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -280,11 +293,13 @@
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false
+      "obsidian-language-learner:单词列表": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
   "active": "11914d5a4608ee04",
   "lastOpenFiles": [
+    "taskset 测试.md",
     "slurm utilization question.md",
     "PanGen 优化计划.md",
     "Remove Directory not empty.md",
@@ -316,7 +331,6 @@
     "backup.md",
     "Untitled.loom",
     "yaml文件报错.md",
-    "language learn/其他可参考的资源.md",
     "language learn/演讲",
     "language learn/小说",
     "language learn/考研英语一阅读文本/2022",
