@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory monitor log modify.md",
+                "file": "Job Manager.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "slurm utilization question.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,14 +285,14 @@
   },
   "active": "11914d5a4608ee04",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-31 09.48.58.excalidraw.md",
-    "PanGen 优化计划.md",
-    "Excalidraw",
     "slurm utilization question.md",
-    "memory monitor log modify.md",
-    "Job Manager.md",
-    "Job Manager Work Flow.md",
+    "PanGen 优化计划.md",
     "Remove Directory not empty.md",
+    "Job Manager.md",
+    "memory monitor log modify.md",
+    "Excalidraw/Drawing 2024-01-31 09.48.58.excalidraw.md",
+    "Excalidraw",
+    "Job Manager Work Flow.md",
     "_debug_remotely_save/log_hist_exported_on_1706598024123.md",
     "_debug_remotely_save",
     "企业微信截图_1706597865123.png",
