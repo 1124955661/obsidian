@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "ac5dce612848ab5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240201 —— io_files_cksum.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2090f9b8e95d7139",
             "type": "leaf",
             "state": {
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job Manager.md"
+                "file": "20240201 —— io_files_cksum.md"
               }
             }
           },
@@ -157,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Manager.md",
+                "file": "20240201 —— io_files_cksum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job Manager.md",
+                "file": "20240201 —— io_files_cksum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,12 +262,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Job Manager.md"
+                "file": "20240201 —— io_files_cksum.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -284,11 +297,14 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "44913e19be627bcf",
+  "active": "ac5dce612848ab5a",
   "lastOpenFiles": [
+    "202402011421.md",
     "Job Manager.md",
-    "Job Manager Work Flow.md",
     "slurm utilization question.md",
+    "20240201 —— io_files_cksum.md",
+    "修改enable_execute_sessions.md",
+    "Job Manager Work Flow.md",
     "taskset 测试.md",
     "PanGen 优化计划.md",
     "Remove Directory not empty.md",
@@ -313,11 +329,8 @@
     "调度系统.md",
     "切分字符串.md",
     "贪婪匹配.md",
-    "修改enable_execute_sessions.md",
     "正则编译.md",
-    "backup.md",
     "Untitled.loom",
-    "yaml文件报错.md",
     "language learn/演讲",
     "language learn/小说",
     "language learn/考研英语一阅读文本/2022",
