@@ -21,42 +21,6 @@
             }
           },
           {
-            "id": "44913e19be627bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Job Manager.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac5dce612848ab5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20240201 —— io_files_cksum.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "936c028801d522f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "2090f9b8e95d7139",
             "type": "leaf",
             "state": {
@@ -95,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -148,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md"
+                "file": "Job Manager Work Flow.md"
               }
             }
           },
@@ -180,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md",
+                "file": "Job Manager Work Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md",
+                "file": "Job Manager Work Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +235,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md"
+                "file": "Job Manager Work Flow.md"
               }
             }
           }
@@ -307,14 +270,14 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "936c028801d522f3",
+  "active": "cb1dde77e330bb28",
   "lastOpenFiles": [
+    "Job Manager.md",
     "20240201 —— io_files_cksum.md",
-    "Excalidraw/Drawing 2024-02-01 17.08.31.excalidraw.md",
+    "Excalidraw/GPU 锁细化相关.md",
+    "slurm utilization question.md",
     "gpu 锁相关.canvas",
     "202402011421.md",
-    "Job Manager.md",
-    "slurm utilization question.md",
     "修改enable_execute_sessions.md",
     "Job Manager Work Flow.md",
     "taskset 测试.md",
