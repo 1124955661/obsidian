@@ -11,8 +11,13 @@
             "id": "64c419b33f50d880",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Edge Layer/Edge Layer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Edge Layer/Edge Layer.md"
+              }
             }
           },
           {
@@ -77,11 +84,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 250.5
   },
   "right": {
     "id": "ccd7433a85483bba",
@@ -97,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Edge Layer/Edge Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Edge Layer/Edge Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Edge Layer/Edge Layer.md"
+              }
             }
           }
         ],
