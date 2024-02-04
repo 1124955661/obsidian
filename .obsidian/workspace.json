@@ -1,53 +1,67 @@
 {
   "main": {
-    "id": "904ac61e89b73666",
+    "id": "35c0ffca1ce91811",
     "type": "split",
     "children": [
       {
-        "id": "06e998ba46e072a7",
+        "id": "b97a9d00c9da2cad",
         "type": "tabs",
         "children": [
           {
-            "id": "a09a068bde72ca5c",
+            "id": "84edc7f08def205b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Job Manager Meeting —— 240204.md",
+                "file": "python 库.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "e7600536c98e73e6",
+            "id": "c73b8f08d96f8713",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slurm utilization question.md",
+                "file": "contextlib.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaec8cc016a3c3bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "namedtuple.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1ddfc91996ba9bf6",
+    "id": "9be5f164faa1ea39",
     "type": "split",
     "children": [
       {
-        "id": "84daa6f103da8f8a",
+        "id": "9795b142eabce53a",
         "type": "tabs",
         "children": [
           {
-            "id": "e8957cde3a1c4271",
+            "id": "2b91db1dc7221ca9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,13 +71,13 @@
             }
           },
           {
-            "id": "e2c0580776e28630",
+            "id": "764debd6a67f5465",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "set nu",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -72,28 +86,10 @@
             }
           },
           {
-            "id": "f4e9d93724c3dec0",
+            "id": "afb0f28e15f0cba8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "6d48749ff93dc32e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Job Manager Meeting —— 240204.md"
-              }
-            }
-          },
-          {
-            "id": "c29b30a4b0bc2a62",
-            "type": "leaf",
-            "state": {
-              "type": "langr-search-panel",
               "state": {}
             }
           }
@@ -101,48 +97,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 518.5
   },
   "right": {
-    "id": "ccd7433a85483bba",
+    "id": "48c56cd27c9b7ace",
     "type": "split",
     "children": [
       {
-        "id": "f37089550b1d330a",
+        "id": "183ba2645447eca8",
         "type": "tabs",
         "children": [
           {
-            "id": "1d085447a0812ef4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Job Manager Meeting —— 240204.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "c14a3ad6af37f522",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Job Manager Meeting —— 240204.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "089679eeb89d2344",
+            "id": "f9e320fd5605eb00",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,7 +119,17 @@
             }
           },
           {
-            "id": "9df5d020a155eff5",
+            "id": "2e308cbdf164ee8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "contextlib.md"
+              }
+            }
+          },
+          {
+            "id": "0d935fb40fb0011f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,7 +141,7 @@
             }
           },
           {
-            "id": "472e731d821a9b4f",
+            "id": "9c493d53862dc013",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -173,7 +149,7 @@
             }
           },
           {
-            "id": "332a6842826b8ecd",
+            "id": "18b1993f090d478c",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -181,117 +157,150 @@
             }
           },
           {
-            "id": "00bcf6295c36e6fa",
+            "id": "e41c2e2559f3ba23",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "contextlib.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "4b561d1f3847fead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "contextlib.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "370afad6ea7b49be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "contextlib.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "43b1d73ad699c48f",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "872e4ba61324b933",
-            "type": "leaf",
-            "state": {
-              "type": "langr-stat",
-              "state": {}
-            }
-          },
-          {
-            "id": "9f5201d993e93ce8",
-            "type": "leaf",
-            "state": {
-              "type": "langr-learn-panel",
-              "state": {}
-            }
-          },
-          {
-            "id": "18d65908ee150029",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Job Manager Meeting —— 240204.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-projects:Open projects": false,
-      "obsidian-weread-plugin:Weread": false,
-      "remotely-save:Remotely Save": false,
-      "publish:发布更改": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-language-learner:打开查词面板": false,
-      "obsidian-language-learner:打开新词面板": false,
-      "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-weread-plugin:Weread": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "a09a068bde72ca5c",
+  "active": "2b91db1dc7221ca9",
   "lastOpenFiles": [
-    "slurm utilization question.md",
-    "Job Manager.md",
-    "Jmviewer.md",
-    "Job Manager Work Flow.md",
-    "Job Manager 文件相关.md",
-    "Job Manager Meeting —— 240204.md",
-    "Excalidraw/GPU 锁细化相关.md",
-    "taskset 测试.md",
-    "Edge Layer/Edge Layer.md",
-    "_debug_remotely_save/log_hist_exported_on_1706598024123.md",
-    "Remove Directory not empty.md",
-    "Excalidraw/Job Manager Work Flow.md",
-    "Job Manager —— job页面.md",
-    "Job Manager Job detail 页面.md",
-    "Job Manager PRD.md",
-    "英语/language learn/考研英语一阅读文本/2002/Text2.md",
-    "Untitled.loom",
-    "20240201 —— io_files_cksum.md",
-    "gpu 锁相关.canvas",
-    "202402011421.md",
-    "修改enable_execute_sessions.md",
-    "PanGen 优化计划.md",
-    "memory monitor log modify.md",
-    "Excalidraw/Drawing 2024-01-31 09.48.58.excalidraw.md",
-    "Excalidraw",
-    "_debug_remotely_save",
-    "企业微信截图_1706597865123.png",
-    "Permission Not enough to access monitor path.md",
-    "System error.md",
-    "Vim.md",
-    "正则表达式.md",
-    "vim-keyboard.png",
-    "英语/language learn/演讲",
-    "英语/language learn/小说",
+    "conflict-files-obsidian-git.md",
+    "contextlib.md",
+    "namedtuple.md",
+    "set nu",
+    "英语/language learn/考研英语一阅读文本/2022/Trans.md",
+    "英语/language learn/考研英语一阅读文本/2022/Text5.md",
+    "英语/language learn/考研英语一阅读文本/2022/Text4.md",
+    "英语/language learn/考研英语一阅读文本/2022/Text3.md",
+    "英语/language learn/考研英语一阅读文本/2022/Text2.md",
+    "英语/language learn/考研英语一阅读文本/2022/Text1.md",
+    "英语/language learn/考研英语一阅读文本/2021/Trans.md",
+    "英语/language learn/考研英语一阅读文本/2021/Text5.md",
+    "英语/language learn/考研英语一阅读文本/2021/Text4.md",
+    "英语/language learn/考研英语一阅读文本/2021/Text3.md",
+    "英语/language learn/考研英语一阅读文本/2021/Text2.md",
+    "英语/language learn/考研英语一阅读文本/2021/Text1.md",
+    "英语/language learn/考研英语一阅读文本/2020/Trans.md",
+    "英语/language learn/考研英语一阅读文本/2020/Text5.md",
+    "英语/language learn/考研英语一阅读文本/2020/Text4.md",
+    "英语/language learn/考研英语一阅读文本/2020/Text3.md",
+    "英语/language learn/考研英语一阅读文本/2020/Text2.md",
+    "英语/language learn/考研英语一阅读文本/2020/Text1.md",
+    "英语/language learn/考研英语一阅读文本/2019/Trans.md",
+    "英语/language learn/考研英语一阅读文本/2019/Text5.md",
+    "英语/language learn/考研英语一阅读文本/2019/Text4.md",
+    "英语/language learn/考研英语一阅读文本/2019/Text3.md",
+    "英语/language learn/考研英语一阅读文本/2019/Text2.md",
     "英语/language learn/考研英语一阅读文本/2022",
     "英语/language learn/考研英语一阅读文本/2021",
-    "英语/language learn/考研英语一阅读文本/2017",
     "英语/language learn/考研英语一阅读文本/2020",
     "英语/language learn/考研英语一阅读文本/2019",
-    "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
-    "Pasted image 20240108110828.png",
-    "企业微信截图_17046777081052(1).png",
-    "Pasted image 20240108103745.png",
-    "Edge Layer/Pasted image 20240102101745.png",
-    "Pasted image 20240103095856.png",
-    "Pasted image 20240103094154.png",
-    "Edge Layer/Pasted image 20231228152108.png"
+    "英语/language learn/考研英语一阅读文本/2018",
+    "英语/language learn/考研英语一阅读文本/2017",
+    "英语/language learn/考研英语一阅读文本/2016",
+    "英语/language learn/考研英语一阅读文本/2015",
+    "英语/language learn/考研英语一阅读文本/2014",
+    "企业微信截图_1706597865123.png",
+    "vim-keyboard.png",
+    "obsidian/企业微信截图_17046777081052(1).png",
+    "obsidian/Pasted image 20240108110828.png",
+    "obsidian/Pasted image 20240108103745.png",
+    "obsidian/Pasted image 20240103095856.png",
+    "obsidian/Pasted image 20240103094154.png",
+    "obsidian/Edge Layer/Pasted image 20240102111854.png",
+    "obsidian/Edge Layer/Pasted image 20240102111535.png",
+    "obsidian/Edge Layer/Pasted image 20240102104108.png"
   ]
 }

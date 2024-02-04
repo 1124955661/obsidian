@@ -1,0 +1,457 @@
+[1mdiff --cc .obsidian/plugins/various-complements/histories.json[m
+[1mindex e5385b7,240750d..0000000[m
+[1m--- a/.obsidian/plugins/various-complements/histories.json[m
+[1m+++ b/.obsidian/plugins/various-complements/histories.json[m
+[36m@@@ -1,1 -1,1 +1,5 @@@[m
+[31m- {"102300":{"102300":{"currentFile":{"count":1,"lastUpdated":1705129927559}}},"Obsidian 学习":{"Obsidian 学习":{"internalLink":{"count":1,"lastUpdated":1704630137218}}},"匹配一个数字":{"匹配一个数字":{"currentFile":{"count":1,"lastUpdated":1705127058855}}},"re.split":{"re.split":{"currentFile":{"count":1,"lastUpdated":1705129069624}}},"010-12345":{"010-12345":{"currentFile":{"count":1,"lastUpdated":1705129386071}}},"m.group":{"m.group":{"currentFile":{"count":2,"lastUpdated":1705129410654}}},"re模块":{"re模块":{"internalLink":{"count":1,"lastUpdated":1705130050558}}},"datatime":{"datatime":{"internalLink":{"count":2,"lastUpdated":1705220681090}}},"datetime":{"datetime":{"internalLink":{"count":2,"lastUpdated":1705221139335}}},"字节在末尾补足后，再在编码的末尾加上1个或2个":{"字节在末尾补足后，再在编码的末尾加上1个或2个":{"currentFile":{"count":1,"lastUpdated":1705413060824}}},"terminal":{"terminal":{"currentFile":{"count":1,"lastUpdated":1705890351453}}},"console":{"console":{"currentFile":{"count":1,"lastUpdated":1706082666479}}},"Job Manager":{"Job Manager":{"internalLink":{"count":6,"lastUpdated":1707036245654}}},"namedtuple":{"namedtuple":{"internalLink":{"count":3,"lastUpdated":1706233840139}}},"recipe":{"recipe":{"currentFile":{"count":2,"lastUpdated":1706252122612}}},"INPUT":{"INPUT":{"currentFile":{"count":1,"lastUpdated":1706174165628}}},"python":{"python":{"internalLink":{"count":1,"lastUpdated":1706174247851}}},"Status":{"Status":{"currentFile":{"count":2,"lastUpdated":1706234302306}}},"Project":{"Project":{"currentFile":{"count":1,"lastUpdated":1706236840129}}},"counter":{"counter":{"internalLink":{"count":3,"lastUpdated":1706586453292}}},"status":{"status":{"currentFile":{"count":1,"lastUpdated":1706236988380}}},"resource":{"resource":{"currentFile":{"count":1,"lastUpdated":1706240528366}}},"submit":{"submit":{"currentFile":{"count":1,"lastUpdated":1706252355072}}},"session":{"session":{"currentFile":{"count":1,"lastUpdated":1706252430659}}},"queue":{"queue":{"currentFile":{"count":1,"lastUpdated":1706586895508}}},"session_controller":{"session_controller":{"internalLink":{"count":1,"lastUpdated":1706598017590}}},"slurm utilization question":{"slurm utilization question":{"internalLink":{"count":1,"lastUpdated":1706668872196}}},"System error":{"System error":{"internalLink":{"count":3,"lastUpdated":1706687136172}}},"system":{"system":{"currentFile":{"count":2,"lastUpdated":1706689789191}}},"setting":{"setting":{"currentFile":{"count":1,"lastUpdated":1707037721790}}}}[m
+[31m -{"102300":{"102300":{"currentFile":{"count":1,"lastUpdated":1705129927559}}},"Obsidian 学习":{"Obsidian 学习":{"internalLink":{"count":1,"lastUpdated":1704630137218}}},"匹配一个数字":{"匹配一个数字":{"currentFile":{"count":1,"lastUpdated":1705127058855}}},"re.split":{"re.split":{"currentFile":{"count":1,"lastUpdated":1705129069624}}},"010-12345":{"010-12345":{"currentFile":{"count":1,"lastUpdated":1705129386071}}},"m.group":{"m.group":{"currentFile":{"count":2,"lastUpdated":1705129410654}}},"re模块":{"re模块":{"internalLink":{"count":1,"lastUpdated":1705130050558}}},"datatime":{"datatime":{"internalLink":{"count":2,"lastUpdated":1705220681090}}},"datetime":{"datetime":{"internalLink":{"count":2,"lastUpdated":1705221139335}}},"字节在末尾补足后，再在编码的末尾加上1个或2个":{"字节在末尾补足后，再在编码的末尾加上1个或2个":{"currentFile":{"count":1,"lastUpdated":1705413060824}}},"orange":{"orange":{"currentFile":{"count":1,"lastUpdated":1707049392497}}}}[m
+[32m++<<<<<<< Updated upstream[m
+[32m++{"102300":{"102300":{"currentFile":{"count":1,"lastUpdated":1705129927559}}},"Obsidian 学习":{"Obsidian 学习":{"internalLink":{"count":1,"lastUpdatewarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it
+d":1704630137218}}},"匹配一个数字":{"匹配一个数字":{"currentFile":{"count":1,"lastUpdated":1705127058855}}},"re.split":{"re.split":{"currentFile":{"count":1,"lastUpdated":1705129069624}}},"010-12345":{"010-12345":{"currentFile":{"count":1,"lastUpdated":1705129386071}}},"m.group":{"m.group":{"currentFile":{"count":2,"lastUpdated":1705129410654}}},"re模块":{"re模块":{"internalLink":{"count":1,"lastUpdated":1705130050558}}},"datatime":{"datatime":{"internalLink":{"count":2,"lastUpdated":1705220681090}}},"datetime":{"datetime":{"internalLink":{"count":2,"lastUpdated":1705221139335}}},"字节在末尾补足后，再在编码的末尾加上1个或2个":{"字节在末尾补足后，再在编码的末尾加上1个或2个":{"currentFile":{"count":1,"lastUpdated":1705413060824}}},"terminal":{"terminal":{"currentFile":{"count":1,"lastUpdated":1705890351453}}},"console":{"console":{"currentFile":{"count":1,"lastUpdated":1706082666479}}},"Job Manager":{"Job Manager":{"internalLink":{"count":6,"lastUpdated":1707036245654}}},"namedtuple":{"namedtuple":{"internalLink":{"count":3,"lastUpdated":1706233840139}}},"recipe":{"recipe":{"currentFile":{"count":2,"lastUpdated":1706252122612}}},"INPUT":{"INPUT":{"currentFile":{"count":1,"lastUpdated":1706174165628}}},"python":{"python":{"internalLink":{"count":1,"lastUpdated":1706174247851}}},"Status":{"Status":{"currentFile":{"count":2,"lastUpdated":1706234302306}}},"Project":{"Project":{"currentFile":{"count":1,"lastUpdated":1706236840129}}},"counter":{"counter":{"internalLink":{"count":3,"lastUpdated":1706586453292}}},"status":{"status":{"currentFile":{"count":1,"lastUpdated":1706236988380}}},"resource":{"resource":{"currentFile":{"count":1,"lastUpdated":1706240528366}}},"submit":{"submit":{"currentFile":{"count":1,"lastUpdated":1706252355072}}},"session":{"session":{"currentFile":{"count":1,"lastUpdated":1706252430659}}},"queue":{"queue":{"currentFile":{"count":1,"lastUpdated":1706586895508}}},"session_controller":{"session_controller":{"internalLink":{"count":1,"lastUpdated":1706598017590}}},"slurm utilization question":{"slurm utilization question":{"internalLink":{"count":1,"lastUpdated":1706668872196}}},"System error":{"System error":{"internalLink":{"count":3,"lastUpdated":1706687136172}}},"system":{"system":{"currentFile":{"count":2,"lastUpdated":1706689789191}}},"setting":{"setting":{"currentFile":{"count":1,"lastUpdated":1707037721790}}}}[m
+[32m++=======[m
+[32m++{"102300":{"102300":{"currentFile":{"count":1,"lastUpdated":1705129927559}}},"Obsidian 学习":{"Obsidian 学习":{"internalLink":{"count":1,"lastUpdated":1704630137218}}},"匹配一个数字":{"匹配一个数字":{"currentFile":{"count":1,"lastUpdated":1705127058855}}},"re.split":{"re.split":{"currentFile":{"count":1,"lastUpdated":1705129069624}}},"010-12345":{"010-12345":{"currentFile":{"count":1,"lastUpdated":1705129386071}}},"m.group":{"m.group":{"currentFile":{"count":2,"lastUpdated":1705129410654}}},"re模块":{"re模块":{"internalLink":{"count":1,"lastUpdated":1705130050558}}},"datatime":{"datatime":{"internalLink":{"count":2,"lastUpdated":1705220681090}}},"datetime":{"datetime":{"internalLink":{"count":2,"lastUpdated":1705221139335}}},"字节在末尾补足后，再在编码的末尾加上1个或2个":{"字节在末尾补足后，再在编码的末尾加上1个或2个":{"currentFile":{"count":1,"lastUpdated":1705413060824}}},"orange":{"orange":{"currentFile":{"count":1,"lastUpdated":1707049392497}}}}[m
+[32m++>>>>>>> Stashed changes[m
+[1mdiff --git a/.obsidian/workspace.json b/.obsidian/workspace.json[m
+[1mindex 1922686..ac97348 100644[m
+[1m--- a/.obsidian/workspace.json[m
+[1m+++ b/.obsidian/workspace.json[m
+[36m@@ -1,53 +1,67 @@[m
+ {[m
+   "main": {[m
+[31m-    "id": "904ac61e89b73666",[m
+[32m+[m[32m    "id": "35c0ffca1ce91811",[m
+     "type": "split",[m
+     "children": [[m
+       {[m
+[31m-        "id": "06e998ba46e072a7",[m
+[32m+[m[32m        "id": "b97a9d00c9da2cad",[m
+         "type": "tabs",[m
+         "children": [[m
+           {[m
+[31m-            "id": "a09a068bde72ca5c",[m
+[32m+[m[32m            "id": "84edc7f08def205b",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "markdown",[m
+               "state": {[m
+[31m-                "file": "Job Manager Meeting —— 240204.md",[m
+[32m+[m[32m                "file": "python 库.md",[m
+                 "mode": "source",[m
+[31m-                "backlinks": true,[m
+[32m+[m[32m                "backlinks": false,[m
+                 "source": false[m
+               }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "e7600536c98e73e6",[m
+[32m+[m[32m            "id": "c73b8f08d96f8713",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "markdown",[m
+               "state": {[m
+[31m-                "file": "slurm utilization question.md",[m
+[32m+[m[32m                "file": "contextlib.md",[m
+                 "mode": "source",[m
+[31m-                "backlinks": true,[m
+[32m+[m[32m                "backlinks": false,[m
+[32m+[m[32m                "source": false[m
+[32m+[m[32m              }[m
+[32m+[m[32m            }[m
+[32m+[m[32m          },[m
+[32m+[m[32m          {[m
+[32m+[m[32m            "id": "eaec8cc016a3c3bf",[m
+[32m+[m[32m            "type": "leaf",[m
+[32m+[m[32m            "state": {[m
+[32m+[m[32m              "type": "markdown",[m
+[32m+[m[32m              "state": {[m
+[32m+[m[32m                "file": "namedtuple.md",[m
+[32m+[m[32m                "mode": "source",[m
+[32m+[m[32m                "backlinks": false,[m
+                 "source": false[m
+               }[m
+             }[m
+           }[m
+[31m-        ][m
+[32m+[m[32m        ],[m
+[32m+[m[32m        "currentTab": 1[m
+       }[m
+     ],[m
+     "direction": "vertical"[m
+   },[m
+   "left": {[m
+[31m-    "id": "1ddfc91996ba9bf6",[m
+[32m+[m[32m    "id": "9be5f164faa1ea39",[m
+     "type": "split",[m
+     "children": [[m
+       {[m
+[31m-        "id": "84daa6f103da8f8a",[m
+[32m+[m[32m        "id": "9795b142eabce53a",[m
+         "type": "tabs",[m
+         "children": [[m
+           {[m
+[31m-            "id": "e8957cde3a1c4271",[m
+[32m+[m[32m            "id": "2b91db1dc7221ca9",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "file-explorer",[m
+[36m@@ -57,13 +71,13 @@[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "e2c0580776e28630",[m
+[32m+[m[32m            "id": "764debd6a67f5465",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "search",[m
+               "state": {[m
+                 "query": "",[m
+[31m-                "matchingCase": true,[m
+[32m+[m[32m                "matchingCase": false,[m
+                 "explainSearch": false,[m
+                 "collapseAll": false,[m
+                 "extraContext": false,[m
+[36m@@ -72,88 +86,50 @@[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "f4e9d93724c3dec0",[m
+[32m+[m[32m            "id": "afb0f28e15f0cba8",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "bookmarks",[m
+               "state": {}[m
+             }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "6d48749ff93dc32e",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "outline",[m
+[31m-              "state": {[m
+[31m-                "file": "Job Manager Meeting —— 240204.md"[m
+[31m-              }[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "c29b30a4b0bc2a62",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "langr-search-panel",[m
+[31m-              "state": {}[m
+[31m-            }[m
+           }[m
+         ][m
+       }[m
+     ],[m
+     "direction": "horizontal",[m
+[31m-    "width": 250.5,[m
+[31m-    "collapsed": true[m
+[32m+[m[32m    "width": 200[m
+   },[m
+   "right": {[m
+[31m-    "id": "ccd7433a85483bba",[m
+[32m+[m[32m    "id": "48c56cd27c9b7ace",[m
+     "type": "split",[m
+     "children": [[m
+       {[m
+[31m-        "id": "f37089550b1d330a",[m
+[32m+[m[32m        "id": "183ba2645447eca8",[m
+         "type": "tabs",[m
+         "children": [[m
+           {[m
+[31m-            "id": "1d085447a0812ef4",[m
+[32m+[m[32m            "id": "f9e320fd5605eb00",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "backlink",[m
+[32m+[m[32m              "type": "tag",[m
+               "state": {[m
+[31m-                "file": "Job Manager Meeting —— 240204.md",[m
+[31m-                "collapseAll": false,[m
+[31m-                "extraContext": false,[m
+[31m-                "sortOrder": "alphabetical",[m
+[31m-                "showSearch": false,[m
+[31m-                "searchQuery": "",[m
+[31m-                "backlinkCollapsed": false,[m
+[31m-                "unlinkedCollapsed": false[m
+[32m+[m[32m                "sortOrder": "frequency",[m
+[32m+[m[32m                "useHierarchy": true[m
+               }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "c14a3ad6af37f522",[m
+[32m+[m[32m            "id": "2e308cbdf164ee8e",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "outgoing-link",[m
+[32m+[m[32m              "type": "outline",[m
+               "state": {[m
+[31m-                "file": "Job Manager Meeting —— 240204.md",[m
+[31m-                "linksCollapsed": false,[m
+[31m-                "unlinkedCollapsed": true[m
+[32m+[m[32m                "file": "contextlib.md"[m
+               }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "089679eeb89d2344",[m
+[31m-            "type": "leaf",[m
+[31m-            "state": {[m
+[31m-              "type": "tag",[m
+[31m-              "state": {[m
+[31m-                "sortOrder": "frequency",[m
+[31m-                "useHierarchy": true[m
+[31m-              }[m
+[31m-            }[m
+[31m-          },[m
+[31m-          {[m
+[31m-            "id": "9df5d020a155eff5",[m
+[32m+[m[32m            "id": "0d935fb40fb0011f",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "all-properties",[m
+[36m@@ -165,7 +141,7 @@[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "472e731d821a9b4f",[m
+[32m+[m[32m            "id": "9c493d53862dc013",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "advanced-tables-toolbar",[m
+[36m@@ -173,7 +149,7 @@[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "332a6842826b8ecd",[m
+[32m+[m[32m            "id": "18b1993f090d478c",[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "calendar",[m
+[36m@@ -181,117 +157,150 @@[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "00bcf6295c36e6fa",[m
+[32m+[m[32m            "id": "e41c2e2559f3ba23",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "todo",[m
+[31m-              "state": {}[m
+[32m+[m[32m              "type": "localgraph",[m
+[32m+[m[32m              "state": {[m
+[32m+[m[32m                "file": "contextlib.md",[m
+[32m+[m[32m                "options": {[m
+[32m+[m[32m                  "collapse-filter": false,[m
+[32m+[m[32m                  "search": "",[m
+[32m+[m[32m                  "localJumps": 1,[m
+[32m+[m[32m                  "localBacklinks": true,[m
+[32m+[m[32m                  "localForelinks": true,[m
+[32m+[m[32m                  "localInterlinks": false,[m
+[32m+[m[32m                  "showTags": false,[m
+[32m+[m[32m                  "showAttachments": false,[m
+[32m+[m[32m                  "hideUnresolved": false,[m
+[32m+[m[32m                  "collapse-color-groups": true,[m
+[32m+[m[32m                  "colorGroups": [],[m
+[32m+[m[32m                  "collapse-display": true,[m
+[32m+[m[32m                  "showArrow": false,[m
+[32m+[m[32m                  "textFadeMultiplier": 0,[m
+[32m+[m[32m                  "nodeSizeMultiplier": 1,[m
+[32m+[m[32m                  "lineSizeMultiplier": 1,[m
+[32m+[m[32m                  "collapse-forces": true,[m
+[32m+[m[32m                  "centerStrength": 0.518713248970312,[m
+[32m+[m[32m                  "repelStrength": 10,[m
+[32m+[m[32m                  "linkStrength": 1,[m
+[32m+[m[32m                  "linkDistance": 250,[m
+[32m+[m[32m                  "scale": 1,[m
+[32m+[m[32m                  "close": true[m
+[32m+[m[32m                }[m
+[32m+[m[32m              }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "872e4ba61324b933",[m
+[32m+[m[32m            "id": "4b561d1f3847fead",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "langr-stat",[m
+[31m-              "state": {}[m
+[32m+[m[32m              "type": "backlink",[m
+[32m+[m[32m              "state": {[m
+[32m+[m[32m                "file": "contextlib.md",[m
+[32m+[m[32m                "collapseAll": false,[m
+[32m+[m[32m                "extraContext": false,[m
+[32m+[m[32m                "sortOrder": "alphabetical",[m
+[32m+[m[32m                "showSearch": false,[m
+[32m+[m[32m                "searchQuery": "",[m
+[32m+[m[32m                "backlinkCollapsed": false,[m
+[32m+[m[32m                "unlinkedCollapsed": false[m
+[32m+[m[32m              }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "9f5201d993e93ce8",[m
+[32m+[m[32m            "id": "370afad6ea7b49be",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "langr-learn-panel",[m
+[31m-              "state": {}[m
+[32m+[m[32m              "type": "outgoing-link",[m
+[32m+[m[32m              "state": {[m
+[32m+[m[32m                "file": "contextlib.md",[m
+[32m+[m[32m                "linksCollapsed": false,[m
+[32m+[m[32m                "unlinkedCollapsed": false[m
+[32m+[m[32m              }[m
+             }[m
+           },[m
+           {[m
+[31m-            "id": "18d65908ee150029",[m
+[32m+[m[32m            "id": "43b1d73ad699c48f",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "file-properties",[m
+[31m-              "state": {[m
+[31m-                "file": "Job Manager Meeting —— 240204.md"[m
+[31m-              }[m
+[32m+[m[32m              "type": "todo",[m
+[32m+[m[32m              "state": {}[m
+             }[m
+           }[m
+[31m-        ][m
+[32m+[m[32m        ],[m
+[32m+[m[32m        "currentTab": 6[m
+       }[m
+     ],[m
+     "direction": "horizontal",[m
+[31m-    "width": 245.5[m
+[32m+[m[32m    "width": 201.5[m
+   },[m
+   "left-ribbon": {[m
+     "hiddenItems": {[m
+[31m-      "table-editor-obsidian:Advanced Tables Toolbar": false,[m
+[31m-      "notion-like-tables:Create loom": false,[m
+[31m-      "obsidian-excalidraw-plugin:新建绘图文件": false,[m
+[31m-      "obsidian-projects:Open projects": false,[m
+[31m-      "obsidian-weread-plugin:Weread": false,[m
+[31m-      "remotely-save:Remotely Save": false,[m
+[31m-      "publish:发布更改": false,[m
+       "switcher:打开快速切换": false,[m
+       "graph:查看关系图谱": false,[m
+       "canvas:新建白板": false,[m
+       "daily-notes:打开/创建今天的日记": false,[m
+       "templates:插入模板": false,[m
+       "command-palette:打开命令面板": false,[m
+[31m-      "workspaces:管理工作区布局": false,[m
+       "markdown-importer:打开 Markdown 格式转换器": false,[m
+[31m-      "obsidian-language-learner:打开查词面板": false,[m
+[31m-      "obsidian-language-learner:打开新词面板": false,[m
+[31m-      "obsidian-language-learner:打开统计": false,[m
+[31m-      "obsidian-language-learner:单词列表": false,[m
+[31m-      "zk-prefixer:创建时间戳笔记": false[m
+[32m+[m[32m      "workspaces:管理工作区布局": false,[m
+[32m+[m[32m      "publish:发布更改": false,[m
+[32m+[m[32m      "table-editor-obsidian:Advanced Tables Toolbar": false,[m
+[32m+[m[32m      "notion-like-tables:Create loom": false,[m
+[32m+[m[32m      "obsidian-excalidraw-plugin:新建绘图文件": false,[m
+[32m+[m[32m      "obsidian-projects:Open projects": false,[m
+[32m+[m[32m      "obsidian-weread-plugin:Weread": false,[m
+[32m+[m[32m      "remotely-save:Remotely Save": false[m
+     }[m
+   },[m
+[31m-  "active": "a09a068bde72ca5c",[m
+[32m+[m[32m  "active": "c73b8f08d96f8713",[m
+   "lastOpenFiles": [[m
+[31m-    "slurm utilization question.md",[m
+[31m-    "Job Manager.md",[m
+[31m-    "Jmviewer.md",[m
+[31m-    "Job Manager Work Flow.md",[m
+[31m-    "Job Manager 文件相关.md",[m
+[31m-    "Job Manager Meeting —— 240204.md",[m
+[31m-    "Excalidraw/GPU 锁细化相关.md",[m
+[31m-    "taskset 测试.md",[m
+[31m-    "Edge Layer/Edge Layer.md",[m
+[31m-    "_debug_remotely_save/log_hist_exported_on_1706598024123.md",[m
+[31m-    "Remove Directory not empty.md",[m
+[31m-    "Excalidraw/Job Manager Work Flow.md",[m
+[31m-    "Job Manager —— job页面.md",[m
+[31m-    "Job Manager Job detail 页面.md",[m
+[31m-    "Job Manager PRD.md",[m
+[31m-    "英语/language learn/考研英语一阅读文本/2002/Text2.md",[m
+[31m-    "Untitled.loom",[m
+[31m-    "20240201 —— io_files_cksum.md",[m
+[31m-    "gpu 锁相关.canvas",[m
+[31m-    "202402011421.md",[m
+[31m-    "修改enable_execute_sessions.md",[m
+[31m-    "PanGen 优化计划.md",[m
+[31m-    "memory monitor log modify.md",[m
+[31m-    "Excalidraw/Drawing 2024-01-31 09.48.58.excalidraw.md",[m
+[31m-    "Excalidraw",[m
+[31m-    "_debug_remotely_save",[m
+[31m-    "企业微信截图_1706597865123.png",[m
+[31m-    "Permission Not enough to access monitor path.md",[m
+[31m-    "System error.md",[m
+[31m-    "Vim.md",[m
+[31m-    "正则表达式.md",[m
+[31m-    "vim-keyboard.png",[m
+[31m-    "英语/language learn/演讲",[m
+[31m-    "英语/language learn/小说",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Trans.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Text5.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Text4.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Text3.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Text2.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2022/Text1.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Trans.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Text5.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Text4.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Text3.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Text2.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2021/Text1.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Trans.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Text5.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Text4.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Text3.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Text2.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2020/Text1.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Trans.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Text5.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Text4.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Text3.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Text2.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2019/Text1.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2018/Trans.md",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2018/Text5.md",[m
+     "英语/language learn/考研英语一阅读文本/2022",[m
+     "英语/language learn/考研英语一阅读文本/2021",[m
+[31m-    "英语/language learn/考研英语一阅读文本/2017",[m
+     "英语/language learn/考研英语一阅读文本/2020",[m
+     "英语/language learn/考研英语一阅读文本/2019",[m
+[31m-    "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",[m
+[31m-    "Pasted image 20240108110828.png",[m
+[31m-    "企业微信截图_17046777081052(1).png",[m
+[31m-    "Pasted image 20240108103745.png",[m
+[31m-    "Edge Layer/Pasted image 20240102101745.png",[m
+[31m-    "Pasted image 20240103095856.png",[m
+[31m-    "Pasted image 20240103094154.png",[m
+[31m-    "Edge Layer/Pasted image 20231228152108.png"[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2018",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2017",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2016",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2015",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2014",[m
+[32m+[m[32m    "英语/language learn/考研英语一阅读文本/2013",[m
+[32m+[m[32m    "企业微信截图_1706597865123.png",[m
+[32m+[m[32m    "vim-keyboard.png",[m
+[32m+[m[32m    "obsidian/企业微信截图_17046777081052(1).png",[m
+[32m+[m[32m    "obsidian/Pasted image 20240108110828.png",[m
+[32m+[m[32m    "obsidian/Pasted image 20240108103745.png",[m
+[32m+[m[32m    "obsidian/Pasted image 20240103095856.png",[m
+[32m+[m[32m    "obsidian/Pasted image 20240103094154.png",[m
+[32m+[m[32m    "obsidian/Edge Layer/Pasted image 20240102111854.png",[m
+[32m+[m[32m    "obsidian/Edge Layer/Pasted image 20240102111535.png",[m
+[32m+[m[32m    "obsidian/Edge Layer/Pasted image 20240102104108.png"[m
+   ][m
+ }[m
+\ No newline at end of file[m
