@@ -11,8 +11,13 @@
             "id": "a09a068bde72ca5c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Job Manager Meeting —— 240204.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -66,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Job Manager Meeting —— 240204.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Job Manager Meeting —— 240204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Job Manager Meeting —— 240204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,11 +196,12 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Job Manager Meeting —— 240204.md"
+              }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,8 +231,9 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "872e4ba61324b933",
+  "active": "a09a068bde72ca5c",
   "lastOpenFiles": [
+    "Job Manager Meeting —— 240204.md",
     "Edge Layer/Edge Layer.md",
     "_debug_remotely_save/log_hist_exported_on_1706598024123.md",
     "Excalidraw/GPU 锁细化相关.md",
@@ -254,7 +265,6 @@
     "正则表达式.md",
     "基础命令.md",
     "vim-keyboard.png",
-    "().md",
     "英语/language learn/演讲",
     "英语/language learn/小说",
     "英语/language learn/考研英语一阅读文本/2022",
