@@ -237,15 +237,16 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "zk-prefixer:创建时间戳笔记": false,
       "obsidian-language-learner:打开查词面板": false,
       "obsidian-language-learner:打开新词面板": false,
       "obsidian-language-learner:打开统计": false,
-      "obsidian-language-learner:单词列表": false
+      "obsidian-language-learner:单词列表": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
   "active": "a09a068bde72ca5c",
   "lastOpenFiles": [
+    "urllib.md",
     "set nu",
     "conflict-files-obsidian-git.md",
     "slurm utilization question.md",
@@ -284,7 +285,6 @@
     "英语/language learn/考研英语一阅读文本/2021",
     "英语/language learn/考研英语一阅读文本/2017",
     "英语/language learn/考研英语一阅读文本/2020",
-    "英语/language learn/考研英语一阅读文本/2019",
     "61695405-a3c1-4aeb-8c07-c1283050278c.jpg",
     "Pasted image 20240108110828.png",
     "企业微信截图_17046777081052(1).png",
