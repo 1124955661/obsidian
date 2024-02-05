@@ -7,7 +7,7 @@
 	1. project : 同样需要筛选
 	2. job name：需要排序或筛选
 7. 高级搜索功能，可以通过
-8. copy file to，删除该功能。询问 AE 方面，该功能的实际需求。
+8. copy file to，删除该功能。询问 AE 方面，该**功能**的实际需求。
 9. 修改资源，worker count，tasks-per-node
 10. GUI setting 
 	1. ip 和 port 去掉
