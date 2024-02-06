@@ -1,12 +1,4 @@
 {
   "editor:toggle-bold": [],
-  "editor:open-search": [],
-  "backlink:open-backlinks": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ]
+  "editor:open-search": []
 }
