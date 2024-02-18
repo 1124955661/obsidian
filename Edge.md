@@ -1,3 +1,10 @@
+# Edge selection
+
+```python
+rule = pu.EdgeSelection() 
+rule.add_selection({'length': [0, 100], 'orientation': 'H'}) rule.set_reverse_valid(True) 
+rule.anchor_mark('A')  //打mark
+```
 # Edge type
 1. jog **优先判断**
     - _**jogside 在jog边前后的两条边**_
