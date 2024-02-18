@@ -1,6 +1,9 @@
 ---
-tags: []
+tags:
+  - python
+  - 编程
 ---
+## 内置
 [[datetime]]
 [[collections]]
 [[argparse]]
@@ -11,5 +14,6 @@ tags: []
 [[itertools]]
 [[contextlib]]
 [urllib](urllib.md)
-
+## 第三方
 [[psutil]]
+[[venv]] 为应用创建一个独立的 python 环境
