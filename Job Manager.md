@@ -28,6 +28,7 @@ single 和 multiple 模式的 job 信息不会记录在这个之中。
 options['sbatch_setting'] = '-p gpu_48 --job-name=S2@CASEB -N 2 --ntasks-per-node=1 --cpus-per-task=2  --gres=gpu:1 --mem-per-cpus=10G'
 ```
  [[sbatch setting]] 
+ [[pframe 中 if-else 的问题]]
 --------------------------------------------------
 ## [[Job Manager PRD]]
 # 实际问题
