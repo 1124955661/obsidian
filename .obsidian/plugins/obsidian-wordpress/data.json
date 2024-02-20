@@ -1,11 +1,24 @@
 {
   "lang": "auto",
-  "profiles": [],
-  "showRibbonIcon": false,
+  "profiles": [
+    {
+      "name": "luckyea",
+      "apiType": "xml-rpc",
+      "endpoint": "https://wordpress.com/home/wp1124955661.wordpress.com",
+      "xmlRpcPath": "/xmlrpc.php",
+      "saveUsername": false,
+      "savePassword": false,
+      "isDefault": true,
+      "lastSelectedCategories": [
+        1
+      ]
+    }
+  ],
+  "showRibbonIcon": true,
   "defaultPostStatus": "draft",
   "defaultCommentStatus": "open",
   "rememberLastSelectedCategories": true,
-  "showWordPressEditConfirm": false,
+  "showWordPressEditConfirm": true,
   "mathJaxOutputType": "svg",
   "enableHtml": false,
   "replaceMediaLinks": true,
