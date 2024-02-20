@@ -4,14 +4,20 @@
     {
       "name": "luckyea",
       "apiType": "xml-rpc",
-      "endpoint": "https://wordpress.com/home/wp1124955661.wordpress.com",
+      "endpoint": "https://wp1124955661.wordpress.com/",
       "xmlRpcPath": "/xmlrpc.php",
-      "saveUsername": false,
-      "savePassword": false,
+      "saveUsername": true,
+      "savePassword": true,
       "isDefault": true,
       "lastSelectedCategories": [
         1
-      ]
+      ],
+      "username": "1124955661@qq.com",
+      "encryptedPassword": {
+        "key": "{\"alg\":\"A256GCM\",\"ext\":true,\"k\":\"MmIcz_ASjO4MeJ5gsE_Q7yrt0Vgk-KbpzZRiaWIHjlM\",\"key_ops\":[\"encrypt\",\"decrypt\"],\"kty\":\"oct\"}",
+        "vector": "GhviU0ez5LVoZQ7N",
+        "encrypted": "jFPc1X+Fbh91E2R8NRn2IZ5xm5l9MvBGLJlg"
+      }
     }
   ],
   "showRibbonIcon": true,
