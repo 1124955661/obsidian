@@ -1,7 +1,11 @@
 ---
 langr : xxx
 langr-origin: 考研单词5500
+title: part2
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:41 下午
 ---
+
 ^^^article
 
 1001 correspondence
@@ -221,7 +225,7 @@ langr-origin: 考研单词5500
 1215 desk
 1216 desolate
 1217 despair
-1218 despatch
+1218 dispatch
 1219 desperate
 1220 despise
 1221 despite

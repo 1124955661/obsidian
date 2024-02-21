@@ -1,3 +1,10 @@
+---
+title: block edge
+tags: [edge]
+date created: 星期二, 一月 2日 2024, 10:39:29 上午
+date modified: 星期三, 二月 21日 2024, 2:35:55 下午
+---
+
 #edge
 # Define
 首先，block edge必须来自于执行[[dimensional check]]的layer1或者layer2，它可以是一段完整的edge，也可以是被打断后的edge segment。也就是说如果来自不同layer的edge存在相交的情况，在交点处则会打断edge。

@@ -1,11 +1,17 @@
-# Edge selection
+---
+title: Edge
+date created: 星期五, 一月 5日 2024, 2:35:16 下午
+date modified: 星期三, 二月 21日 2024, 2:35:55 下午
+---
+
+# Edge Selection
 
 ```python
 rule = pu.EdgeSelection() 
 rule.add_selection({'length': [0, 100], 'orientation': 'H'}) rule.set_reverse_valid(True) 
 rule.anchor_mark('A')  //打mark
 ```
-# Edge type
+# Edge Type
 1. jog **优先判断**
     - _**jogside 在jog边前后的两条边**_
         - 一般得满足 length ≥ min_jogside_len

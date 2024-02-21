@@ -1,5 +1,12 @@
+---
+title: Job Manager PRD
+tags: [PRD, JobManager]
+date created: 星期二, 一月 30日 2024, 11:45:22 中午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 #PRD #JobManager 
-## improvement 记录
+## Improvement 记录
 1. 支持 用户在 GUI 中 修改 worker count
 2. 支持 多 partition 分区提交
 	1. 用户手动指定提交的 partition 分区

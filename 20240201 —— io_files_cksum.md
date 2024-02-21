@@ -1,3 +1,10 @@
+---
+title: 20240201 —— io_files_cksum
+tags: [bug, JobManager]
+date created: 星期四, 二月 1日 2024, 2:18:28 下午
+date modified: 星期三, 二月 21日 2024, 2:35:55 下午
+---
+
 #bug #JobManager 
 
 # 情形

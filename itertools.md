@@ -1,3 +1,9 @@
+---
+title: itertools
+date created: 星期三, 一月 17日 2024, 11:51:40 晚上
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 Python的内建模块`itertools`提供了非常有用的用于操作迭代对象的函数。
 
 首先，我们看看`itertools`提供的几个“无限”迭代器：

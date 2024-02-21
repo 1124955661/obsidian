@@ -1,4 +1,10 @@
-# [[Polygon]] Shapes Definition: 
+---
+title: Polygon
+date created: 星期五, 一月 5日 2024, 2:34:46 下午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
+---
+
+# [[Polygon]] Shapes Definition:
 1. SQUARE 正方形 
 2. RECTANGLE 矩形 
 3. MANHATTAN 除矩形和正方形外其他由水平和竖直边组成的多边形 
@@ -11,7 +17,7 @@
     - long_[[edge]] short_[[edge]] 长/短边的长度
     - aspect_ration 长短边之比
     - area 面积大小
-    - oriantation 方向
+    - orientation 方向
     - [[marks]] 标签
 2. 利用选择区域和Polygon位置关系进行选择
     - inside/outside 在选择区域的内外部

@@ -1,6 +1,9 @@
 ---
 langr : xxx
 langr-origin: 2015-英语一-Text2
+title: Text2
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
 ---
 
 ^^^article
@@ -9,7 +12,7 @@ Just how much does the Constitution protect your digital data? The Supreme Court
 
 California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest. It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies.
 
-The court would be recklessly modest if it followed California’s advice. Enough of the implications are discernable, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.
+The court would be recklessly modest if it followed California’s advice. Enough of the implications are discernible, even obvious, so that the justices can and should provide updated guidelines to police, lawyers and defendants.
 
 They should start by discarding California’s lame argument that exploring the contents of a smartphone—a vast storehouse of digital information—is similar to, say, going through a suspect’s purse. The court has ruled that police don’t violate the Fourth Amendment when they go through the wallet or pocketbook of an arrestee without a warrant. But exploring one’s smartphone is more like entering his or her home. A smartphone may contain an arrestee’s reading history, financial history, medical history and comprehensive records of recent correspondence. The development of “cloud computing,” meanwhile, has made that exploration so much the easier.
 

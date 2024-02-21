@@ -3,7 +3,11 @@ tags:
   - JobManager
   - job
   - WorkFlow
+title: Job Manager Work Flow
+date created: 星期四, 一月 25日 2024, 4:55:23 下午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
 ---
+
 # [Job Manager](Job%20Manager.md) Work Flow
 ## 登入系统
 1. 输入账号密码登入系统
@@ -24,7 +28,7 @@ tags:
 	2. 可以调整 job 在队列中的顺序，用于管控job运行的顺序
 2. 通过 status 和 user 列可以对job table 中进行筛选，快速选中相应的job。
 3. 在实时资源显示界面可以查看当前slurm队列中的 job 的资源使用情况。
-## After Job Done 
+## After Job Done
 - CKSUM：校验输出 GDS 的cksum的功能
 - copy file to：用于 copy 工作路径下文件的功能。（应删除）
 # 说明及需求改进
@@ -54,12 +58,12 @@ tags:
 5. CKSUM：校验输出的 GDS 的CKSUM值
 6. Select：quick select 功能
 
-## queue 界面
+## Queue 界面
 - 当 Job submit 之后，会被提交进队列中，并把队列信息显示在GUI上
 - 提供4个按钮用于调整 job 的顺序
 - 提供搜索功能
 ## 资源查看
-### resource
+### Resource
 - 当前为显示 node 节点的资源情况，——思考是否需要更换成只显示 partition 的资源。（GUI中添加可以指定提交partition的功能）
-### realtime resource 
+### Realtime Resource
 实时显示 job 的资源使用情况。

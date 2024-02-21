@@ -1,3 +1,10 @@
+---
+title: pu.select_edge_by_property
+tags: [edge, EdgeLayer]
+date created: 星期四, 十二月 28日 2023, 2:34:04 下午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 #edge #EdgeLayer 
 ```python
 rule = pu.EdgeSelection()
@@ -10,7 +17,7 @@ pu.select_edge_by_property(layer，select_rules) # 基于属性选择 edge，这
 1. 先利用 pu.EdgeSelection()，基于属性设定 rule
 2. 再根据一些特定的rule，进行 edge的 选择
 select_rule: 
-	1. Lenth
+	1. Length
 	2. Angle
 	3. delta angle
 	4. vertex

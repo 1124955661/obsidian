@@ -1,8 +1,12 @@
 ---
 aliases:
+title: dimensional Check
+tags: [EdgeLayer, Recipe, function]
+date created: 星期四, 十二月 28日 2023, 3:35:34 下午
+date modified: 星期三, 二月 21日 2024, 2:35:55 下午
 ---
 
-#EdgeLayer  #Recipe #function
+#EdgeLayer #Recipe #function
 # 概念
 在根据property进行选择时，并不建议使用width，space，enclosing，enclosed，self to reference width和self to reference space等property，这些property可以理解为通过测量一对 pair [[edge]]沿某个方向的相对距离，选择出符合要求的[[edge]]，[[edge]] selection的结果依赖于geometry setting中对query box的设置，即设置max_space，max_width，start_extend，end_extend的值。而对于一些特殊的边，需要重新改变query box。当涉及到这些property时建议使用dimensional check，它不需要手动设置geometry setting，可以在执行命令时灵活地改变query box。
 
@@ -57,19 +61,19 @@ pu.dimensional_check( layer_one | [layer_one, layer_two], mode, constraint, metr
 	2. point：[[edge]]相交在某一点的情况也会额外参与测量
 	3. only：必须和 angle 和 point 联合使用。使用angle或者point关键字意味着在标准结果之外额外输出intersection的结果，而使用only关键字等同于过滤标准结果，只输出intersection的结果。
 6. [[polygon]]：[[edge]]是否来自同一个 [[polygon]]
-	-  只适用于 single layer 的 external check，该 option 将根据输出的 [[edge]] 是否来自同一个 [[polygon]] 实现对结果的过滤。如果 [[polygon]] 的值为 self，只有当 pair [[edge]] 来自同一个 [[polygon]] 时才会被输出，如果 [[polygon]] 的值为 diff，只有当 pair [[edge]] 来自不同的 [[polygon]] 时才会被输出。
+	- 只适用于 single layer 的 external check，该 option 将根据输出的 [[edge]] 是否来自同一个 [[polygon]] 实现对结果的过滤。如果 [[polygon]] 的值为 self，只有当 pair [[edge]] 来自同一个 [[polygon]] 时才会被输出，如果 [[polygon]] 的值为 diff，只有当 pair [[edge]] 来自不同的 [[polygon]] 时才会被输出。
 7. reversal：[[edge]]相对于layer之间的关系（select_[[edge]]_by_releation)，只适用输入为2层layer的情况，使用这个option时，结果会额外输出满足相应情况的结果。
 	1. inside_also：只可以在mode为 enclosure 或 external 的情况使用。使用该参数时，layer 1 中相对于 layer 2 为 inside 或 inside collinear 关系的边也会额外输出。
 	2. outside_also：输出 layer 1 关于 layer 2 为 outside 和 outside collinear 的 [[edge]]。
 
 	- 注意如果在使用reversal的同时，output参数指定为region，Extents或者centerline等，此时这些额外输出的边会朝着width的方向扩展1nm的宽度。
 		![[Pasted image 20240102101745.png]]
-8.  shadow： ==Shadowing [[edge]]== 指的是能够完全或部分阻隔一对选中的 pair [[edge]] 之间视线的 [[edge]]。
+8. shadow： ==Shadowing [[edge]]== 指的是能够完全或部分阻隔一对选中的 pair [[edge]] 之间视线的 [[edge]]。
 	1. filter mode：0关闭，禁用该option，1开启。开启时，pair [[edge]] 形成的 region 中存在的哪些 shadowing [[edge]] 如果完全阻隔了 pair [[edge]] 之间的视线，那么这类pair [[edge]] 将会被过滤掉不被输出。==设置为 2 时==，如果只阻隔了部分，那么没有被阻隔的部分的 pair [[edge]] 将会输出。![[Pasted image 20240102102630.png]]
 	2. {'count':'\[min,max\]'}：输出结果中，允许存在的showing的数量。
 	3. {'shadow_layer': layer} : 只有来自指定层的 shadowing [[edge]] 有效
 	- shadow option 和 shield: clear option 以及 projection：no project option 不能同时使用。并且 shadow option 中的相关定义对于相交边的情况并不生效。当metric是Euclidean和square 时，constraint中指定的min value必须写成0，即下限必须是>0或>=0。否则[[block edge]]的限制会失效。
 9. shield：只适用于 bi-layer check，用于放宽测量行为的设定。
-	1.  block_[[edge]]：可以在 internal 和 enclosure check 中额外考虑 collinear 的情况。 inside collinear 的 [[edge]] 也会被纳入 internal check 的测量中， outside collinear 的 [[edge]] 被纳入 enclosure check 的测量中。 ^a37131
+	1. block_[[edge]]：可以在 internal 和 enclosure check 中额外考虑 collinear 的情况。 inside collinear 的 [[edge]] 也会被纳入 internal check 的测量中， outside collinear 的 [[edge]] 被纳入 enclosure check 的测量中。 ^a37131
 	2. clear：清除 [[block edge]] 和 [[polygon containment]] 对结果的影响。
 

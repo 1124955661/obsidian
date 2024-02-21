@@ -1,3 +1,9 @@
+---
+title: hmac
+date created: 星期三, 一月 17日 2024, 11:51:40 晚上
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 这实际上就是Hmac算法：Keyed-Hashing for Message Authentication。它通过一个标准算法，在计算哈希的过程中，把key混入计算过程中。
 
 和我们自定义的加salt算法不同，Hmac算法针对所有哈希算法都通用，无论是MD5还是SHA-1。采用Hmac替代我们自己的salt算法，可以使程序算法更标准化，也更安全。

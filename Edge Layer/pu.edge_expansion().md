@@ -1,3 +1,10 @@
+---
+title: pu.edge_expansion()
+tags: [EdgeLayer, polygon, Edge, function]
+date created: 星期二, 一月 2日 2024, 2:07:12 下午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
+---
+
 #EdgeLayer #polygon #Edge #function 
 # 描述
 该命令，可以将输入层的 edge 沿着垂直方向扩展，生成polygon layer 并输出。

@@ -2,10 +2,13 @@
 langr: xx
 langr-origin: 《动物庄园》
 langr-pos: 17
+title: Animal Farm
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:41 下午
 ---
 
-Title:      Animal Farm
-Author:     George Orwell (pseudonym of Eric Blair) (1903-1950)
+Title: Animal Farm
+Author: George Orwell (pseudonym of Eric Blair) (1903-1950)
 
 ^^^article
 
@@ -145,7 +148,7 @@ THE SEVEN COMMANDMENTS
 6. No animal shall kill any other animal.  
 7. All animals are equal.
 
-It was very neatly written, and except that "friend" was written "freind" and one of the "S's" was the wrong way round, the spelling was correct all the way through. Snowball read it aloud for the benefit of the others. All the animals nodded in complete agreement, and the cleverer ones at once began to learn the Commandments by heart.
+It was very neatly written, and except that "friend" was written "friend" and one of the "S's" was the wrong way round, the spelling was correct all the way through. Snowball read it aloud for the benefit of the others. All the animals nodded in complete agreement, and the cleverer ones at once began to learn the Commandments by heart.
 
 "Now, comrades," cried Snowball, throwing down the paint-brush, "to the hayfield! Let us make it a point of honour to get in the harvest more quickly than Jones and his men could do."
 

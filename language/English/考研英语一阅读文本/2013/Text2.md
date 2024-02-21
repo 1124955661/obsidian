@@ -1,6 +1,9 @@
 ---
 langr : xxx
 langr-origin: 2013-英语一-Text2
+title: Text2
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:41 下午
 ---
 
 ^^^article
@@ -9,7 +12,7 @@ An old saying has it that half of all advertising budgets are wasted—the troub
 
  In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioural ads? Or should they have explicit permission?
 
- In December 2010 America’s Federal Trade Commission (FTC) proposed adding a “do not track” (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.  Microsoft’s Internet Explorer and Apple’s Safari both offer DNT; Google’s Chrome is due to do so this year.  In February the FTC and Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.
+ In December 2010 America’s Federal Trade Commission (FTC) proposed adding a “do not track” (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.  Microsoft’s Internet Explorer and Apple’s Safari both offer DNT; Google’s Chrome is due to do so this year.  In February the FTC and Digital Advertising Alliance (Data) agreed that the industry would get cracking on responding to DNT requests.
 
  On May 31st Microsoft set off the row.  It said that Internet Explorer 10, the version due to appear with Windows 8, would have DNT as a default.
 

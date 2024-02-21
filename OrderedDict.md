@@ -1,3 +1,9 @@
+---
+title: OrderedDict
+date created: 星期日, 一月 14日 2024, 7:23:34 早上
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 使用`dict`时，Key是无序的。在对`dict`做迭代时，我们无法确定Key的顺序。
 
 如果要保持Key的顺序，可以用`OrderedDict`：

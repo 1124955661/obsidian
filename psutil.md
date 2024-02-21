@@ -1,3 +1,10 @@
+---
+title: psutil
+tags: [python]
+date created: 星期三, 二月 7日 2024, 4:10:13 下午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 #python 
 获取系统信息的库
 

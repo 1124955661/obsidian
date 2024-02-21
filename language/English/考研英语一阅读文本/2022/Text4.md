@@ -1,6 +1,9 @@
 ---
 langr : xxx
 langr-origin: 2022-英语一-Text4
+title: Text4
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:41 下午
 ---
 
 nzinitiative.org.nz: Nothing Costs Nothing--Why Unjustified Dismissal Laws Should Not Apply to the Highly Paid
@@ -9,7 +12,7 @@ nzinitiative.org.nz: Nothing Costs Nothing--Why Unjustified Dismissal Laws Shoul
 
 The personal grievance provisions of New Zealand's Employment Relations Act 2000 (ERA) prevent an employer from firing an employee without good cause. Instead, dismissals must be justified. Employers must both show cause and act in a procedurally fair way.
 
-Personal grievance procedures were designed to guard the jobs of ordinary workers from unjustified dismissals". The premise was that the common law of contract lacked suffcient safeguards for workers against arbitrary conduct by management. Long gone are the days when a boss could simply give an employee contractual notice.
+Personal grievance procedures were designed to guard the jobs of ordinary workers from unjustified dismissals". The premise was that the common law of contract lacked sufficient safeguards for workers against arbitrary conduct by management. Long gone are the days when a boss could simply give an employee contractual notice.
 
 But these provisions create difficulties for businesses when applied to highly paid managers and executives. As countless boards and business owners will attest, constraining firms from firing poorly performing, high-earning managers is a handbrake on boosting productivity and overall performance. The difference between C-grade and A-grade managers may very well be the difference between business success or failure. Between preserving the jobs of ordinary workers or losing them. Yet mediocrity is no longer enough to justify a dismissal.
 

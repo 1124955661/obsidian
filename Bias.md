@@ -1,3 +1,10 @@
+---
+title: Bias
+tags: [DRC]
+date created: 星期四, 一月 18日 2024, 9:47:56 上午
+date modified: 星期三, 二月 21日 2024, 2:35:55 下午
+---
+
 #DRC
 # [[Edge]] Bias General
 - pu.bias( layer_break, general_setting, special_setting)

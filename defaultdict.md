@@ -1,3 +1,9 @@
+---
+title: defaultdict
+date created: 星期日, 一月 14日 2024, 7:23:34 早上
+date modified: 星期三, 二月 21日 2024, 2:33:43 下午
+---
+
 使用`dict`时，如果引用的Key不存在，就会抛出`KeyError`。如果希望key不存在时，返回一个默认值，就可以用`defaultdict`：
 ```python
 >>> from collections import defaultdict

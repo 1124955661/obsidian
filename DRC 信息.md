@@ -1,6 +1,11 @@
 ---
 
+title: DRC 信息
+tags: [DRC, layer, Edge, polygon]
+date created: 星期三, 一月 3日 2024, 2:50:52 下午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
 ---
+
 #DRC #layer #Edge #polygon 
 ## Layers的导入
 
@@ -9,16 +14,16 @@
 - set Patch size : 通过 psu.set_patch_size(patch_size) 设置分片正方形的大小 单位是微米
 - Set DBU: psu.set_dbu(num) 设置优化过程中数据处理的最小单位
 - Set boundary handing at global level 设置周边分块对自身的影响 psu.set_boundary_handling(1,option{}) 第一个参数 0 表示每个分片单独优化不考虑边界影响，1表示考虑边界影响。
-## [[Polygon]] 
+## [[Polygon]]
 ## [[Edge]]
-## [[vertex]] 
+## [[vertex]]
 
 ## [[Polygon#Polygon 的选择|Polygon的选择]]
 # [[Edge]] 的选择
 
 ## [[Edge]] Operations General
 
-### Frequently-used [[edge]] operation commands include:
+### Frequently-used [[edge]] Operation Commands Include:
 
 - [[Mark]] commands
 - [[Bias]] 
@@ -32,7 +37,7 @@
     - pu.detete_corner_jog / pu.detect_notch_nub
     - pu.clear_corner_jog / pu.clear_notch_nub
 
-### [[Edge]] conversion command
+### [[Edge]] Conversion Command
 
 - pu.convert_non90/45 可以把任意角度的边转换为水平或竖直/45倍数的边
 ```python
@@ -47,9 +52,9 @@ layer_design = pu.convert_non45(layer_main, general_setting, special_setting, op
 	- manhattan：将任意角度的边转换为水平或竖直的边
 	- diagonal ： 将任意角度的边转换为45°的斜边
 
-### Set [[Marks]] Step 
+### Set [[Marks]] Step
 
-### Corner Chop command
+### Corner Chop Command
 
 - pu.chop_corner: 可以切除Manhattan [[polygon]]的转角处切除一个正方形或直角三角形
 ```python

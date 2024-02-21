@@ -1,3 +1,9 @@
+---
+title: sbatch setting
+date created: 星期四, 一月 4日 2024, 10:54:41 上午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 1. -p：partition，设置提交分区
 2. job-name：提交的 job 在slurm中显示的名字。
 3. -N：节点数

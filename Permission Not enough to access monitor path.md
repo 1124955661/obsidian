@@ -1,3 +1,10 @@
+---
+title: Permission Not enough to access monitor path
+tags: [bug]
+date created: 星期一, 一月 29日 2024, 2:50:06 下午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
+---
+
 #bug 
 # 情形
 ready 时报如上错误

@@ -1,3 +1,9 @@
+---
+title: counter
+date created: 星期日, 一月 14日 2024, 7:23:34 早上
+date modified: 星期三, 二月 21日 2024, 2:33:43 下午
+---
+
 `Counter`是一个简单的计数器，例如，统计字符出现的个数：
 
 ```python

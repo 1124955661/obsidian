@@ -1,5 +1,9 @@
 ---
 aliases:
+title: Jmmaster
+tags: [tool, server]
+date created: 星期四, 一月 4日 2024, 11:11:36 上午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
 ---
 
 #tool #server

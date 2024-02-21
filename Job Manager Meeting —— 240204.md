@@ -1,4 +1,10 @@
-1. ssh  连接用，写一个 脚本去简化用户操作
+---
+title: Job Manager Meeting —— 240204
+date created: 星期日, 二月 4日 2024, 4:33:19 下午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
+1. ssh 连接用，写一个 脚本去简化用户操作
 2. 角色区分，只有管理员和普通用户，管理员可以管理其他用户的job
 3. 多 partition提交，在import界面中加入 指定partition的功能。
 4. backup 打包，按时间戳去区分命令，再和树彪讨论一下

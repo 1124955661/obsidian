@@ -1,3 +1,9 @@
+---
+title: struct
+date created: 星期三, 一月 17日 2024, 11:51:40 晚上
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 `struct`的`pack`函数把任意数据类型变成`bytes`
 ```python
 >>> import struct

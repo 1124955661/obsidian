@@ -1,3 +1,10 @@
+---
+title: polygon containment
+tags: [EdgeLayer, polygon]
+date created: 星期二, 一月 2日 2024, 11:15:52 上午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
+---
+
 #EdgeLayer #polygon 
 # Define
 在[[dimensional check]]中，假如一对pair edge满足selection rule，并且不被[[block edge]]所影响，它还需要满足多边形限制准则才能够实现输出。通俗地来说，polygon containment规定了不能穿过polygon去选择边的具体规则。

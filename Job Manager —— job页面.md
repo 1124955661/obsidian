@@ -1,3 +1,9 @@
+---
+title: Job Manager —— job页面
+date created: 星期五, 一月 26日 2024, 10:33:32 上午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 #### 基础信息
 1. project name
 2. Job Name：The input gds name

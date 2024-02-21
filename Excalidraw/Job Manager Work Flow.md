@@ -3,8 +3,12 @@
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+title: Job Manager Work Flow
+date created: 星期五, 二月 2日 2024, 6:07:56 晚上
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
 # Text Elements
@@ -78,7 +82,7 @@ Auto Save ^f4FI8bTW
 
 If-else session ^3u6ZlNi7
 
-GUI Operate  ^7pTVIAxr
+GUI Operate ^7pTVIAxr
 
 Job Manager ^vZ7Mxk1a
 

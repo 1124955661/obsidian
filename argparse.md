@@ -1,3 +1,9 @@
+---
+title: argparse
+date created: 星期三, 一月 17日 2024, 11:51:40 晚上
+date modified: 星期三, 二月 21日 2024, 2:33:43 下午
+---
+
 获取命令行参数，并解析出参数。利用 sys.argv 可以提取
 ```python
 # copy.py

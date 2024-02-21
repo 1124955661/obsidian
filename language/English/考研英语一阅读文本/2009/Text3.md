@@ -1,6 +1,9 @@
 ---
 langr : xxx
 langr-origin: 2009-英语一-Text3
+title: Text3
+date created: 星期一, 一月 22日 2024, 10:15:39 上午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
 ---
 
 ^^^article
@@ -9,7 +12,7 @@ The relationship between formal education and economic growth in poor countries 
 
 Ironically, the first evidence for this idea appeared in the United States. Not long ago, with the country entering a recession and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary causes of the poor U.S. economic performance. Japan was, and remains, the global leader in automotive-assembly productivity. Yet the research revealed that the U.S. factories of Honda, Nissan, and Toyota achieved about 95 percent of the productivity of their Japanese counterparts — a result of the training that U.S. workers received on the job.
 
-More recently, while examing housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry’s work.
+More recently, while examining housing construction, the researchers discovered that illiterate, non-English-speaking Mexican workers in Houston, Texas, consistently met best-practice labor productivity standards despite the complexity of the building industry’s work.
 
 What is the real relationship between education and economic development? We have to suspect that continuing economic growth promotes the development of education even when governments don’t force it. After all, that’s how education got started. When our ancestors were hunters and gatherers 10,000 years ago, they didn’t have time to wonder much about anything besides finding food. Only when humanity began to get its food in a more productive way was there time for other things.
 

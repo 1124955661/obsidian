@@ -1,9 +1,14 @@
 ---
 aliases:
+title: Edge Layer
+tags: [EdgeLayer, DRC, Recipe]
+date created: 星期二, 十二月 19日 2023, 11:25:36 上午
+date modified: 星期三, 二月 21日 2024, 2:35:54 下午
 ---
+
 #EdgeLayer #DRC #Recipe 
 ## Geometry
-1.  方向性：
+1. 方向性：
 	假设你沿着[[edge]]行走，如果你的右侧为[[polygon]]，左侧为空的space，那么你行走的方向就是该条[[edge]]的方向。
 2. 角度：
 	沿着逆时针计算出基准线方向与[[edge]]方向之间的夹角，即可获得该[[edge]]的角度。对于两条相邻的[[edge]]，后一条边的角度减去前一条边的角度，即可获得后一条边的起点夹角start delta angle，同时它也是前一条边的终点夹角end delta angle。

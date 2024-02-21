@@ -1,3 +1,10 @@
+---
+title: pframe 中 if-else 的问题
+tags: [job, JobManager]
+date created: 星期一, 二月 19日 2024, 2:47:20 下午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 #job #JobManager 
 ## 问题
 1. 当 rerun 的时候，由于第一次运行的session 导致 判断条件 变化，

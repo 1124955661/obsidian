@@ -1,3 +1,9 @@
+---
+title: Job Manager Job detail 页面
+date created: 星期五, 一月 26日 2024, 10:40:06 上午
+date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+---
+
 ### 信息列表
 1. Project 
 2. job
