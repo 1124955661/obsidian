@@ -1,10 +1,11 @@
 ---
 title: argparse
 date created: 星期三, 一月 17日 2024, 11:51:40 晚上
-date modified: 星期三, 二月 21日 2024, 2:33:43 下午
+date modified: 星期三, 二月 28日 2024, 10:25:56 上午
 ---
 
 获取命令行参数，并解析出参数。利用 sys.argv 可以提取
+
 ```python
 # copy.py
 import sys
@@ -13,11 +14,15 @@ source = sys.argv[1]
 target = sys.argv[2]
 # TODO...
 ```
+
 运行上述`copy.py`，并传入参数，打印如下：
+
 ```python
 ['copy.py', 'source.txt', 'copy.txt']
 ```
+
 ### 例
+
 假设我们想编写一个备份MySQL数据库的命令行程序，需要输入的参数如下：
 
 - host参数：表示MySQL主机名或IP，不输入则默认为`localhost`；

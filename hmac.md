@@ -1,7 +1,7 @@
 ---
 title: hmac
 date created: 星期三, 一月 17日 2024, 11:51:40 晚上
-date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+date modified: 星期三, 二月 28日 2024, 10:25:55 上午
 ---
 
 这实际上就是Hmac算法：Keyed-Hashing for Message Authentication。它通过一个标准算法，在计算哈希的过程中，把key混入计算过程中。
@@ -11,6 +11,7 @@ date modified: 星期三, 二月 21日 2024, 2:33:42 下午
 Python自带的hmac模块实现了标准的Hmac算法。我们来看看如何使用hmac实现带key的哈希。
 
 我们首先需要准备待计算的原始消息message，随机key，哈希算法，这里采用MD5，使用hmac的代码如下：
+
 ```python
 >>> import hmac
 >>> message = b'Hello, world!'
@@ -20,4 +21,5 @@ Python自带的hmac模块实现了标准的Hmac算法。我们来看看如何使
 >>> h.hexdigest()
 'fa4ee7d173f2d97ee79022d1a7355bcf'
 ```
+
 可见使用hmac和普通hash算法非常类似。hmac输出的长度和原始哈希算法的长度一致。需要注意传入的key和message都是`bytes`类型，`str`类型需要首先编码为`bytes`。

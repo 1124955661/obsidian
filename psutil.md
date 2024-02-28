@@ -2,7 +2,7 @@
 title: psutil
 tags: [python]
 date created: 星期三, 二月 7日 2024, 4:10:13 下午
-date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+date modified: 星期三, 二月 28日 2024, 10:25:54 上午
 ---
 
 #python 
@@ -40,6 +40,7 @@ sswap(total=1073741824, used=150732800, free=923009024, percent=14.0, sin=107059
 ```
 
 ## 磁盘信息
+
 ```python
 >>> psutil.disk_partitions()  磁盘分区信息
 [sdiskpart(device='/dev/disk1', mountpoint='/', fstype='hfs', opts='rw,local,rootfs,dovolfs,journaled,multilabel')]

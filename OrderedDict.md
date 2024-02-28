@@ -1,12 +1,13 @@
 ---
 title: OrderedDict
 date created: 星期日, 一月 14日 2024, 7:23:34 早上
-date modified: 星期三, 二月 21日 2024, 2:33:42 下午
+date modified: 星期三, 二月 28日 2024, 10:25:55 上午
 ---
 
 使用`dict`时，Key是无序的。在对`dict`做迭代时，我们无法确定Key的顺序。
 
 如果要保持Key的顺序，可以用`OrderedDict`：
+
 ```python
 >>> from collections import OrderedDict
 >>> d = dict([('a', 1), ('b', 2), ('c', 3)])
@@ -16,7 +17,9 @@ date modified: 星期三, 二月 21日 2024, 2:33:42 下午
 >>> od # OrderedDict的Key是有序的
 OrderedDict([('a', 1), ('b', 2), ('c', 3)])
 ```
+
 注意，`OrderedDict`的Key会按照插入的顺序排列，不是Key本身排序：
+
 ```python
 >>> od = OrderedDict()
 >>> od['z'] = 1
@@ -25,7 +28,9 @@ OrderedDict([('a', 1), ('b', 2), ('c', 3)])
 >>> list(od.keys()) # 按照插入的Key的顺序返回
 ['z', 'y', 'x']
 ```
+
 `OrderedDict`可以实现一个FIFO（先进先出）的dict，当容量超出限制时，先删除最早添加的Key：
+
 ```python
 from collections import OrderedDict
 

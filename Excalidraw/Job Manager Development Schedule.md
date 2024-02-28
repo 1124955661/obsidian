@@ -3,11 +3,15 @@
 excalidraw-plugin: parsed
 tags: [excalidraw]
 
+title: Job Manager Development Schedule
+date created: 星期一, 二月 26日 2024, 9:54:21 上午
+date modified: 星期三, 二月 28日 2024, 10:25:55 上午
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 # Text Elements
+
 Job Manager ^psNnUBUE
 
 24.06re ^J37IgRGz
@@ -39,12 +43,14 @@ Multiple Partition ^VnYIBUu1
 Modify Resource ^F73ltP1M
 
 Submit to Queue
-1. Modify resource limit from gpu to cpu core  ^gR1z0DMy
+1. Modify resource limit from gpu to cpu core ^gR1z0DMy
 
 CKSUM ^sc0rJxq7
 
 %%
+
 # Drawing
+
 ```json
 {
 	"type": "excalidraw",
@@ -1341,4 +1347,5 @@ CKSUM ^sc0rJxq7
 	"files": {}
 }
 ```
+
 %%

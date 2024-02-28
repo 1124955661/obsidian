@@ -4,7 +4,7 @@ langr-origin: 《动物庄园》
 langr-pos: 17
 title: Animal Farm
 date created: 星期一, 一月 22日 2024, 10:15:39 上午
-date modified: 星期三, 二月 21日 2024, 2:33:41 下午
+date modified: 星期三, 二月 28日 2024, 10:25:54 上午
 ---
 
 Title: Animal Farm
@@ -13,7 +13,6 @@ Author: George Orwell (pseudonym of Eric Blair) (1903-1950)
 ^^^article
 
 ## Chapter I
-
 
 Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the popholes. With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.
 
@@ -91,10 +90,7 @@ The singing of this song threw the animals into the wildest excitement. Almost b
 
 Unfortunately, the uproar awoke Mr. Jones, who sprang out of bed, making sure that there was a fox in the yard. He seized the gun which always stood in a corner of his bedroom, and let fly a charge of number 6 shot into the darkness. The pellets buried themselves in the wall of the barn and the meeting broke up hurriedly. Everyone fled to his own sleeping-place. The birds jumped on to their perches, the animals settled down in the straw, and the whole farm was asleep in a moment.
 
-
-
 ## Chapter II
-
 
 Three nights later old Major died peacefully in his sleep. His body was buried at the foot of the orchard.
 
@@ -162,7 +158,6 @@ But at this moment the three cows, who had seemed uneasy for some time past, set
 
 So the animals trooped down to the hayfield to begin the harvest, and when they came back in the evening it was noticed that the milk had disappeared.
 
-
 ## Chapter III
 
 How they toiled and sweated to get the hay in! But their efforts were rewarded, for the harvest was an even bigger success than they had hoped.
@@ -195,9 +190,7 @@ The mystery of where the milk went to was soon cleared up. It was mixed every da
 
 Now if there was one thing that the animals were completely certain of, it was that they did not want Jones back. When it was put to them in this light, they had no more to say. The importance of keeping the pigs in good health was all too obvious. So it was agreed without further argument that the milk and the windfall apples (and also the main crop of apples when they ripened) should be reserved for the pigs alone.
 
-
 ## Chapter IV
-
 
 By the late summer the news of what had happened on Animal Farm had spread across half the county. Every day Snowball and Napoleon sent out flights of pigeons whose instructions were to mingle with the animals on neighbouring farms, tell them the story of the Rebellion, and teach them the tune of _Beasts of England_.
 
@@ -233,10 +226,7 @@ The animals decided unanimously to create a military decoration, "Animal Hero, F
 
 There was much discussion as to what the battle should be called. In the end, it was named the Battle of the Cowshed, since that was where the ambush had been sprung. Mr. Jones's gun had been found lying in the mud, and it was known that there was a supply of cartridges in the farmhouse. It was decided to set the gun up at the foot of the Flagstaff, like a piece of artillery, and to fire it twice a year–once on October the twelfth, the anniversary of the Battle of the Cowshed, and once on Midsummer Day, the anniversary of the Rebellion.
 
-
-
 ## Chapter V
-
 
 As winter drew on, Mollie became more and more troublesome. She was late for work every morning and excused herself by saying that she had overslept, and she complained of mysterious pains, although her appetite was excellent. On every kind of pretext she would run away from work and go to the drinking pool, where she would stand foolishly gazing at her own reflection in the water. But there were also rumours of something more serious. One day, as Mollie strolled blithely into the yard, flirting her long tail and chewing at a stalk of hay, Clover took her aside.
 
@@ -288,9 +278,7 @@ On the third Sunday after Snowball's expulsion, the animals were somewhat surpri
 
 That evening Squealer explained privately to the other animals that Napoleon had never in reality been opposed to the windmill. On the contrary, it was he who had advocated it in the beginning, and the plan which Snowball had drawn on the floor of the incubator shed had actually been stolen from among Napoleon's papers. The windmill was, in fact, Napoleon's own creation. Why, then, asked somebody, had he spoken so strongly against it? Here Squealer looked very sly. That, he said, was Comrade Napoleon's cunning. He had _seemed_ to oppose the windmill, simply as a manoeuvre to get rid of Snowball, who was a dangerous character and a bad influence. Now that Snowball was out of the way, the plan could go forward without his interference. This, said Squealer, was something called tactics. He repeated a number of times, "Tactics, comrades, tactics!" skipping round and whisking his tail with a merry laugh. The animals were not certain what the word meant, but Squealer spoke so persuasively, and the three dogs who happened to be with him growled so threateningly, that they accepted his explanation without further questions.
 
-
 ## Chapter VI
-
 
 All that year the animals worked like slaves. But they were happy in their work; they grudged no effort or sacrifice, well aware that everything that they did was for the benefit of themselves and those of their kind who would come after them, and not for a pack of idle, thieving human beings.
 
@@ -336,9 +324,7 @@ The animals were shocked beyond measure to learn that even Snowball could be gui
 
 "No more delays, comrades!" cried Napoleon when the footprints had been examined. "There is work to be done. This very morning we begin rebuilding the windmill, and we will build all through the winter, rain or shine. We will teach this miserable traitor that he cannot undo our work so easily. Remember, comrades, there must be no alteration in our plans: they shall be carried out to the day. Forward, comrades! Long live the windmill! Long live Animal Farm!"
 
-
 ## Chapter VII
-
 
 It was a bitter winter. The stormy weather was followed by sleet and snow, and then by a hard frost which did not break till well into February. The animals carried on as best they could with the rebuilding of the windmill, well knowing that the outside world was watching them and that the envious human beings would rejoice and triumph if the mill were not finished on time.
 
@@ -419,10 +405,7 @@ Never through me shalt thou come to harm!_
 
 and this was sung every Sunday morning after the hoisting of the flag. But somehow neither the words nor the tune ever seemed to the animals to come up to _Beasts of England_.
 
-
-
 ## Chapter VIII
-
 
 A few days later, when the terror caused by the executions had died down, some of the animals remembered–or thought they remembered–that the Sixth Commandment decreed "No animal shall kill any other animal." And though no one cared to mention it in the hearing of the pigs or the dogs, it was felt that the killings which had taken place did not square with this. Clover asked Benjamin to read her the Sixth Commandment, and when Benjamin, as usual, said that he refused to meddle in such matters, she fetched Muriel. Muriel read the Commandment for her. It ran: "No animal shall kill any other animal _without cause_." Somehow or other, the last two words had slipped out of the animals' memory. But they saw now that the Commandment had not been violated; for clearly there was good reason for killing the traitors who had leagued themselves with Snowball.
 
@@ -526,10 +509,7 @@ About this time there occurred a strange incident which hardly anyone was able t
 
 But a few days later Muriel, reading over the Seven Commandments to herself, noticed that there was yet another of them which the animals had remembered wrong. They had thought the Fifth Commandment was "No animal shall drink alcohol," but there were two words that they had forgotten. Actually the Commandment read: "No animal shall drink alcohol _to excess_."
 
-
-
 ## Chapter IX
-
 
 Boxer's split hoof was a long time in healing. They had started the rebuilding of the windmill the day after the victory celebrations were ended. Boxer refused to take even a day off work, and made it a point of honour not to let it be seen that he was in pain. In the evenings he would admit privately to Clover that the hoof troubled him a great deal. Clover treated the hoof with poultices of herbs which she prepared by chewing them, and both she and Benjamin urged Boxer to work less hard. "A horse's lungs do not last for ever," she said to him. But Boxer would not listen. He had, he said, only one real ambition left–to see the windmill well under way before he reached the age for retirement.
 
@@ -593,10 +573,7 @@ Napoleon himself appeared at the meeting on the following Sunday morning and pro
 
 On the day appointed for the banquet, a grocer's van drove up from Willingdon and delivered a large wooden crate at the farmhouse. That night there was the sound of uproarious singing, which was followed by what sounded like a violent quarrel and ended at about eleven o'clock with a tremendous crash of glass. No one stirred in the farmhouse before noon on the following day, and the word went round that from somewhere or other the pigs had acquired the money to buy themselves another case of whisky.
 
-
-
 ## Chapter X
-
 
 Years passed. The seasons came and went, the short animal lives fled by. A time came when there was no one who remembered the old days before the Rebellion, except Clover, Benjamin, Moses the raven, and a number of the pigs.
 
@@ -681,5 +658,3 @@ THE END
 
 
 ^^^notes
-
-
