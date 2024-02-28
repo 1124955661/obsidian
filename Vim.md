@@ -17,4 +17,4 @@ date modified: 星期三, 二月 28日 2024, 2:40:22 下午
 [[基础命令]]
 [[进阶命令]]
 
-![vim-keyboard.png](vim-keyboard.png)
+ ![vim-keyboard.png](vim-keyboard.png)
