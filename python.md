@@ -5,8 +5,8 @@ date modified: 2024-03-09T9:31:39
 ---
 
 ```dataview
-TABLE file.ctime, file.mtime
-WHERE file = this.file
+TABLE file.ctime as 创建时间, file.mtime as 文件修改时间
+from going([[class 相关]])
 ```
 
 [[class 相关]]
