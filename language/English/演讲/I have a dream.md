@@ -3,8 +3,8 @@ langr : xxx
 langr-audio: "https://ia600402.us.archive.org/29/items/MLKDream/MLKDream_64kb.mp3"
 langr-origin: I have a dream
 title: I have a dream
-date created: 星期一, 一月 22日 2024, 10:15:39 上午
-date modified: 星期三, 二月 28日 2024, 10:25:54 上午
+date created: 2024-03-09T9:31:04
+date modified: 2024-03-09T9:31:40
 ---
 
 ^^^article

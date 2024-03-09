@@ -1,7 +1,7 @@
 ---
 title: contextlib
-date created: 星期日, 二月 4日 2024, 9:11:33 晚上
-date modified: 星期三, 二月 28日 2024, 10:25:56 上午
+date created: 2024-03-09T9:31:04
+date modified: 2024-03-09T9:31:40
 ---
 
 在Python中，读写文件这样的资源要特别注意，必须在使用完毕后正确关闭它们。正确关闭文件资源的一个方法是使用<font color=orange >`try...finally`</font>:

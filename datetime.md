@@ -1,7 +1,7 @@
 ---
 title: datetime
-date created: 星期日, 一月 14日 2024, 7:23:34 早上
-date modified: 星期三, 二月 28日 2024, 10:25:56 上午
+date created: 2024-03-09T9:31:04
+date modified: 2024-03-09T9:31:40
 ---
 
 [datetime](datetime.md) 是python用于处理日期和时间的标准库

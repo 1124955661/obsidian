@@ -10,8 +10,8 @@ postId: '9'
 categories:
   - 1
 title: Vim
-date created: 星期一, 一月 15日 2024, 11:35:44 中午
-date modified: 星期三, 二月 28日 2024, 2:40:22 下午
+date created: 2024-03-09T9:31:04
+date modified: 2024-03-09T9:31:39
 ---
 
 [[基础命令]]

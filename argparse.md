@@ -1,7 +1,7 @@
 ---
 title: argparse
-date created: 星期三, 一月 17日 2024, 11:51:40 晚上
-date modified: 星期三, 二月 28日 2024, 10:25:56 上午
+date created: 2024-03-09T9:31:04
+date modified: 2024-03-09T9:31:40
 ---
 
 获取命令行参数，并解析出参数。利用 sys.argv 可以提取
