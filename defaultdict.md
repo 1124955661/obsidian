@@ -1,7 +1,7 @@
 ---
 title: defaultdict
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:40
+date modified: 2024-03-11T2:08:27
 ---
 
 使用`dict`时，如果引用的Key不存在，就会抛出`KeyError`。如果希望key不存在时，返回一个默认值，就可以用`defaultdict`：

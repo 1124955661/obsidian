@@ -1,7 +1,7 @@
 ---
 title: itertools
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:39
+date modified: 2024-03-11T2:08:27
 ---
 
 Python的内建模块`itertools`提供了非常有用的用于操作迭代对象的函数。

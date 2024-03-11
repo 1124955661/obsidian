@@ -1,7 +1,7 @@
 ---
 title: struct
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:39
+date modified: 2024-03-11T2:08:26
 ---
 
 `struct`的`pack`函数把任意数据类型变成`bytes`

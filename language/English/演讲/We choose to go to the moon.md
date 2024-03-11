@@ -4,7 +4,7 @@ langr-audio: "https://upload.wikimedia.org/wikipedia/commons/5/50/Jfk_rice_unive
 langr-origin: We choose to go to the moon
 title: We choose to go to the moon
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:40
+date modified: 2024-03-11T2:08:27
 ---
 
 ^^^article

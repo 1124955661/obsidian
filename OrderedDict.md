@@ -1,7 +1,7 @@
 ---
 title: OrderedDict
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:39
+date modified: 2024-03-11T2:08:27
 ---
 
 使用`dict`时，Key是无序的。在对`dict`做迭代时，我们无法确定Key的顺序。

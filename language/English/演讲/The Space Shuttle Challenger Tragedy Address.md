@@ -4,7 +4,7 @@ langr-audio: "https://www.americanrhetoric.com/mp3clipsXE/politicalspeeches/rona
 langr-origin: The Space Shuttle Challenger Tragedy Address
 title: The Space Shuttle Challenger Tragedy Address
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-09T9:31:40
+date modified: 2024-03-11T2:08:27
 ---
 
 ^^^article
