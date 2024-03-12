@@ -25,5 +25,7 @@
   "cm-chs-patch",
   "vim-im-select",
   "obsidian-language-learner",
-  "obsidian-linter"
+  "obsidian-linter",
+  "pkmer",
+  "obsidian-importer"
 ]
