@@ -27,5 +27,7 @@
   "obsidian-language-learner",
   "obsidian-linter",
   "pkmer",
-  "obsidian-importer"
+  "obsidian-importer",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin"
 ]
