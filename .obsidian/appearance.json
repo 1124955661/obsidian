@@ -1,5 +1,5 @@
 {
-  "accentColor": "",
+  "accentColor": "#2d82cd",
   "theme": "obsidian",
   "translucency": false,
   "baseFontSize": 16,
@@ -7,5 +7,8 @@
     "coffebean-代码块着色亮色solarized-light主题",
     "coffebean-双链加图标"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版"
 }

@@ -29,5 +29,7 @@
   "pkmer",
   "obsidian-importer",
   "obsidian-kanban",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "obsidian-style-settings"
 ]
