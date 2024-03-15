@@ -9,10 +9,6 @@
       "value": "225082748"
     },
     {
-      "name": "wr_skey",
-      "value": "_xSFUSBW"
-    },
-    {
       "name": "wr_pf",
       "value": "2"
     },
@@ -39,6 +35,10 @@
     {
       "name": "wr_fp",
       "value": "2469238280"
+    },
+    {
+      "name": "wr_skey",
+      "value": "5gfsa38I"
     }
   ],
   "noteLocation": "Wechat Book",
@@ -46,7 +46,7 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1710397103916,
+  "lastCookieTime": 1710416942430,
   "isCookieValid": true,
   "user": "缺舟一帆渡",
   "userVid": "225082748",
