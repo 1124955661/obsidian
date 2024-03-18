@@ -1,7 +1,7 @@
 ---
 title: ChainMap
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-11T2:08:27
+date modified: 2024-03-18T10:27:44
 ---
 
  `ChainMap`可以把一组`dict`串起来并组成一个逻辑上的`dict`。`ChainMap`本身也是一个dict，但是查找的时候，会按照顺序在内部的dict依次查找。

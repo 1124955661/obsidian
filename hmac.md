@@ -1,7 +1,7 @@
 ---
 title: hmac
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-11T2:08:27
+date modified: 2024-03-18T10:27:44
 ---
 
 这实际上就是Hmac算法：Keyed-Hashing for Message Authentication。它通过一个标准算法，在计算哈希的过程中，把key混入计算过程中。

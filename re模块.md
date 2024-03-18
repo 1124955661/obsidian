@@ -5,7 +5,7 @@ tags:
   - 字符串
 title: re模块
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-11T2:08:26
+date modified: 2024-03-18T10:27:43
 ---
 
 使用 前缀 r 可以不用考虑转义

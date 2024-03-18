@@ -5,7 +5,8 @@
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "coffebean-代码块着色亮色solarized-light主题",
-    "coffebean-双链加图标"
+    "coffebean-双链加图标",
+    "custom-admonitions.d16fc4"
   ],
   "nativeMenus": false,
   "cssTheme": "Blue Topaz",

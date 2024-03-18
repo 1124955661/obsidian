@@ -1,7 +1,7 @@
 ---
 title: counter
 date created: 2024-03-09T9:31:04
-date modified: 2024-03-11T2:08:27
+date modified: 2024-03-18T10:27:44
 ---
 
 `Counter`是一个简单的计数器，例如，统计字符出现的个数：
