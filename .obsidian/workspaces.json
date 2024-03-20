@@ -1,181 +1,5 @@
 {
   "workspaces": {
-    "单个pane": {
-      "main": {
-        "id": "904ac61e89b73666",
-        "type": "split",
-        "children": [
-          {
-            "id": "879c6ee99983bdb6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f9482354ec82318",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Job Manager 相关.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a8742c8ee211dc41",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Jmmaster.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "1ddfc91996ba9bf6",
-        "type": "split",
-        "children": [
-          {
-            "id": "84daa6f103da8f8a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e8957cde3a1c4271",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "e2c0580776e28630",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": true,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  }
-                }
-              },
-              {
-                "id": "f4e9d93724c3dec0",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {}
-                }
-              },
-              {
-                "id": "6d48749ff93dc32e",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Job Manager 相关.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 340.5
-      },
-      "right": {
-        "id": "ccd7433a85483bba",
-        "type": "split",
-        "children": [
-          {
-            "id": "f37089550b1d330a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1d085447a0812ef4",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Job Manager 相关.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
-                  }
-                }
-              },
-              {
-                "id": "c14a3ad6af37f522",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Job Manager 相关.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
-              },
-              {
-                "id": "089679eeb89d2344",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true
-                  }
-                }
-              },
-              {
-                "id": "9df5d020a155eff5",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency"
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "horizontal",
-        "width": 200
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "switcher:打开快速切换": false,
-          "graph:查看关系图谱": false,
-          "canvas:新建白板": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "templates:插入模板": false,
-          "command-palette:打开命令面板": false,
-          "workspaces:管理工作区布局": false,
-          "markdown-importer:打开 Markdown 格式转换器": false
-        }
-      },
-      "active": "9f9482354ec82318"
-    },
     "mind map": {
       "main": {
         "id": "904ac61e89b73666",
@@ -428,7 +252,350 @@
         }
       },
       "active": "963efaa629c0aab0"
+    },
+    "日常工作": {
+      "main": {
+        "id": "904ac61e89b73666",
+        "type": "split",
+        "children": [
+          {
+            "id": "06e998ba46e072a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c80a87238fec789a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "基础命令.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "05fecb90c4a75c27",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/GUI ticket/GUI-1177 1179.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0351c04f6057e937",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/Remove Directory not empty.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f73f6dc688c75f2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/Edge Layer/Edge Layer.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e4d36743eccdde35",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/Edge Layer/dimensional Check.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "45ad670bc56a4df4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/Notion/待办事务.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ca3d4057a18cee77",
+                "type": "leaf",
+                "state": {
+                  "type": "dataloom",
+                  "state": {
+                    "file": "work/待办事务.loom"
+                  }
+                }
+              },
+              {
+                "id": "3cd7a1daf65152dd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "work/Job Manager.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "1ddfc91996ba9bf6",
+        "type": "split",
+        "children": [
+          {
+            "id": "f0fc4ab551e11a60",
+            "type": "tabs",
+            "dimension": 45.85987261146497,
+            "children": [
+              {
+                "id": "6d48749ff93dc32e",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "work/Edge Layer/Edge Layer.md"
+                  }
+                }
+              },
+              {
+                "id": "f4e9d93724c3dec0",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e2c0580776e28630",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "84daa6f103da8f8a",
+            "type": "tabs",
+            "dimension": 54.14012738853503,
+            "children": [
+              {
+                "id": "e8957cde3a1c4271",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c29b30a4b0bc2a62",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-search-panel",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 311.5
+      },
+      "right": {
+        "id": "ccd7433a85483bba",
+        "type": "split",
+        "children": [
+          {
+            "id": "f37089550b1d330a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "089679eeb89d2344",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "9df5d020a155eff5",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "472e731d821a9b4f",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "332a6842826b8ecd",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "00bcf6295c36e6fa",
+                "type": "leaf",
+                "state": {
+                  "type": "todo",
+                  "state": {}
+                }
+              },
+              {
+                "id": "872e4ba61324b933",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-stat",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9f5201d993e93ce8",
+                "type": "leaf",
+                "state": {
+                  "type": "langr-learn-panel",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "163bb2fadac68661",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1d085447a0812ef4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "work/Edge Layer/Edge Layer.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c14a3ad6af37f522",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "work/Edge Layer/Edge Layer.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "18d65908ee150029",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "work/Edge Layer/Edge Layer.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 343.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "notion-like-tables:Create loom": false,
+          "obsidian-projects:Open projects": false,
+          "publish:发布更改": true,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": true,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": true,
+          "obsidian-language-learner:打开查词面板": false,
+          "obsidian-language-learner:打开新词面板": true,
+          "obsidian-language-learner:打开统计": true,
+          "obsidian-language-learner:单词列表": true,
+          "zk-prefixer:创建时间戳笔记": false,
+          "remotely-save:Remotely Save": true,
+          "obsidian-wordpress:发布到 WordPress": true,
+          "pkmer:Open Pkmer Market": true,
+          "obsidian-importer:Open Importer": true,
+          "templater-obsidian:Templater": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false
+        }
+      },
+      "active": "f73f6dc688c75f2a"
     }
   },
-  "active": "mind map"
+  "active": "日常工作"
 }
