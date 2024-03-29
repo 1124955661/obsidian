@@ -5,7 +5,7 @@ date modified: 2024-03-18T10:27:43
 ---
 
 ```dataview
-list
+table
 from ""
 where contains(file.tags,"python")
 ```
